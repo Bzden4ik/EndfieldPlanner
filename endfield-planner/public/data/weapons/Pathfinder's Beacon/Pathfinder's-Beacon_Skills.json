@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Agility Boost [S]",
+    "ATK Boost [S]",
+    "Inspiring: Start of a Saga"
+  ],
+  [
+    "Rank 1",
+    "Agility +12",
+    "Attack +3%",
+    "When the wielder's HP is above 80.00%, ATK +15%."
+  ],
+  [
+    "Rank 2",
+    "Agility +21",
+    "Attack +5.4%",
+    "When the wielder's HP is above 80.00%, ATK +18%."
+  ],
+  [
+    "Rank 3",
+    "Agility +31",
+    "Attack +7.8%",
+    "When the wielder's HP is above 80.00%, ATK +21%."
+  ],
+  [
+    "Rank 4",
+    "Agility +40",
+    "Attack +10.2%",
+    "When the wielder's HP is above 80.00%, ATK +24%."
+  ],
+  [
+    "Rank 5",
+    "Agility +50",
+    "Attack +12.6%",
+    "When the wielder's HP is above 80.00%, ATK +27%."
+  ],
+  [
+    "Rank 6",
+    "Agility +60",
+    "Attack +15%",
+    "When the wielder's HP is above 80.00%, ATK +30%."
+  ],
+  [
+    "Rank 7",
+    "Agility +69",
+    "Attack +17.4%",
+    "When the wielder's HP is above 80.00%, ATK +33%."
+  ],
+  [
+    "Rank 8",
+    "Agility +79",
+    "Attack +19.8%",
+    "When the wielder's HP is above 80.00%, ATK +36%."
+  ],
+  [
+    "Rank 9",
+    "Agility +93",
+    "Attack +23.4%",
+    "When the wielder's HP is above 80.00%, ATK +42%."
+  ]
+]

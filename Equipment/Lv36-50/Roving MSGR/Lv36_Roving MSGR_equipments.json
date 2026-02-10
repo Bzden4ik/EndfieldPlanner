@@ -1,0 +1,54 @@
+{
+  "name": "Roving MSGR",
+  "setEffect": "3-piece set effect: Wearer's Agility +50. When the wearer's HP is above 80%, Physical DMG +20%.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t2_suit_agi01_body_01",
+        "imageSrc": "item_equip_t2_suit_agi01_body_01.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "29",
+          "Agility": "44",
+          "Intellect": "29",
+          "ATK": "16.2%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t2_suit_agi01_hand_01",
+        "imageSrc": "item_equip_t2_suit_agi01_hand_01.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "22",
+          "Agility": "33",
+          "Strength": "22",
+          "Physical DMG": "9.7%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t2_suit_agi01_edc_01",
+        "imageSrc": "item_equip_t2_suit_agi01_edc_01.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "11",
+          "Agility": "21",
+          "ATK": "10.5%"
+        }
+      },
+      {
+        "itemId": "item_equip_t2_suit_agi01_edc_02",
+        "imageSrc": "item_equip_t2_suit_agi01_edc_02.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "11",
+          "Agility": "21",
+          "Combo Skill DMG": "21.0%"
+        }
+      }
+    ]
+  }
+}

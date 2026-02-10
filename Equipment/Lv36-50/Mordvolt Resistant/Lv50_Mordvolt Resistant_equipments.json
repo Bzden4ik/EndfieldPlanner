@@ -1,0 +1,56 @@
+{
+  "name": "Mordvolt Resistant",
+  "setEffect": "3-piece set effect: Wearer's Will +50. When the wearer's HP is below 50%, Treatment Effect +30%.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t3_suit_will01_body_01",
+        "imageSrc": "item_equip_t3_suit_will01_body_01.png",
+        "level": "Lv50",
+        "stats": {
+          "DEF": "40",
+          "Will": "61",
+          "Intellect": "41",
+          "HP": "14.7%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t3_suit_will01_hand_01",
+        "imageSrc": "item_equip_t3_suit_will01_hand_01.png",
+        "level": "Lv50",
+        "stats": {
+          "DEF": "30",
+          "Will": "46",
+          "Agility": "30",
+          "ATK": "12.3%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t3_suit_will01_edc_01",
+        "imageSrc": "item_equip_t3_suit_will01_edc_01.png",
+        "level": "Lv50",
+        "stats": {
+          "DEF": "15",
+          "Will": "23",
+          "Agility": "15",
+          "Heal Output": "14.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t3_suit_will01_edc_02",
+        "imageSrc": "item_equip_t3_suit_will01_edc_02.png",
+        "level": "Lv50",
+        "stats": {
+          "DEF": "15",
+          "Will": "23",
+          "Intellect": "15",
+          "ATK": "14.7%"
+        }
+      }
+    ]
+  }
+}

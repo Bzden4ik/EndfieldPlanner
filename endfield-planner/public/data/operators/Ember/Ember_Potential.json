@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Nomadic Fort",
+      "description": "Talent Inflamed for the Assault improved: Protection effect +20%; hitting an enemy extends the duration by 1.5s."
+    },
+    "Potential 2": {
+      "title": "Steel-Hardened Veteran",
+      "description": "Strength +20, Will +20."
+    },
+    "Potential 3": {
+      "title": "Indomitable Front",
+      "description": "Combo skill Frontline Support improved: Restores the HP of another teammate with the lowest percentage HP at 50% of the base effect."
+    },
+    "Potential 4": {
+      "title": "Undying Embers",
+      "description": "Ultimate Re-Ignited Oath improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "The Steel Oath",
+      "description": "Ultimate Re-Ignited Oath improved: Shield effect is multiplied by 1.2; while this shield is active, the wielder gains ATK +10%."
+    }
+  },
+  "totalCost": [
+    "Ember's Token (5)"
+  ]
+}

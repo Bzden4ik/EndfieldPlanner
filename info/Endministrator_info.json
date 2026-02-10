@@ -1,0 +1,13 @@
+{
+  "name": "Endministrator",
+  "class": "Guard",
+  "weapon": "Sword",
+  "element": "Physical",
+  "faction": "Endfield Industries",
+  "tags": [
+    "Crush",
+    "Crowd Control"
+  ],
+  "mainAttribute": "Agility",
+  "subAttribute": "Strength"
+}

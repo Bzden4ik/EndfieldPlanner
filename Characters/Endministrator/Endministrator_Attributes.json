@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "HP": {
+      "Base": "500",
+      "Elite 1": "1566",
+      "Elite 2": "2689",
+      "Elite 3": "3811",
+      "Elite 4": "4934",
+      "Elite 4 Max": "5495"
+    },
+    "ATK": {
+      "Base": "30",
+      "Elite 1": "92",
+      "Elite 2": "157",
+      "Elite 3": "222",
+      "Elite 4": "287",
+      "Elite 4 Max": "319"
+    },
+    "STR": {
+      "Base": "14",
+      "Elite 1": "38",
+      "Elite 2": "62",
+      "Elite 3": "86",
+      "Elite 4": "111",
+      "Elite 4 Max": "123"
+    },
+    "AGL": {
+      "Base": "14",
+      "Elite 1": "41",
+      "Elite 2": "69",
+      "Elite 3": "98",
+      "Elite 4": "126",
+      "Elite 4 Max": "140"
+    },
+    "INT": {
+      "Base": "9",
+      "Elite 1": "28",
+      "Elite 2": "47",
+      "Elite 3": "67",
+      "Elite 4": "87",
+      "Elite 4 Max": "96"
+    },
+    "WIL": {
+      "Base": "10",
+      "Elite 1": "31",
+      "Elite 2": "53",
+      "Elite 3": "74",
+      "Elite 4": "96",
+      "Elite 4 Max": "107"
+    }
+  },
+  "class": "Skirmisher"
+}

@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Agility Boost [L]",
+    "Physical DMG Boost [L]",
+    "Efficacy: Weight of Mountain"
+  ],
+  [
+    "Rank 1",
+    "Agility +20",
+    "Physical DMG Dealt +5.56%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +20%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +8% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +8% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 2",
+    "Agility +36",
+    "Physical DMG Dealt +10%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +24%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +9.6% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +9.6% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 3",
+    "Agility +52",
+    "Physical DMG Dealt +14.44%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +28%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +11.2% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +11.2% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 4",
+    "Agility +68",
+    "Physical DMG Dealt +18.89%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +32%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +12.8% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +12.8% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 5",
+    "Agility +84",
+    "Physical DMG Dealt +23.33%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +36%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +14.4% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +14.4% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 6",
+    "Agility +100",
+    "Physical DMG Dealt +27.78%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +40%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +16% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +16% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 7",
+    "Agility +116",
+    "Physical DMG Dealt +32.22%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +44%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +17.6% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +17.6% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 8",
+    "Agility +132",
+    "Physical DMG Dealt +36.67%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +48%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +19.2% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +19.2% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 9",
+    "Agility +156",
+    "Physical DMG Dealt +43.33%",
+    "Against Vulnerable enemies, the wielder gains DMG Dealt +56%. When the wielder's battle skill applies Vulnerability, the wielder gains All Attributes +22.4% for 15.00s. When the wielder's battle skill applies Physical Susceptibility, the wielder gains All Attributes +22.4% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ]
+]

@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Flash Freezer",
+      "description": "Combo skill Flashfreezer υ37 improved: Effect radius +20%; releases energy 2 more times; and gains an additional 15 Ultimate Energy after dealing DMG."
+    },
+    "Potential 2": {
+      "title": "Flawless Creation",
+      "description": "Intellect +20, Critical Rate +7%."
+    },
+    "Potential 3": {
+      "title": "Tink-a-Power",
+      "description": "Talent Freezing Point improved: Against enemies with Cryo Infliction, Critical DMG Dealt +10%; this effect is also doubled against enemies with Solidification."
+    },
+    "Potential 4": {
+      "title": "Rebellious Mood",
+      "description": "Battle skill Brr-Brr-Bomb β improved: If the first explosion hits only one enemy, return 10 SP."
+    },
+    "Potential 5": {
+      "title": "Expert Mechcrafter",
+      "description": "Ultimate Cryoblasting Pistolier improved: During the ultimate, ATK +10% and Critical DMG Dealt +30%."
+    }
+  },
+  "totalCost": [
+    "Yvonne's Token (5)"
+  ]
+}

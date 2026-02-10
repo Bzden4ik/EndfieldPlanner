@@ -1,0 +1,12 @@
+{
+  "name": "Prototype Heavy Armor",
+  "typeAndLevel": "Body | Lv.28",
+  "itemId": "item_equip_t1_parts_tundra01_body_03",
+  "imageSrc": "item_equip_t1_parts_tundra01_body_03.png",
+  "mainStat": "DEF +22",
+  "subStats": [
+    "Strength +37",
+    "Intellect +25",
+    "ATK +11.7%"
+  ]
+}

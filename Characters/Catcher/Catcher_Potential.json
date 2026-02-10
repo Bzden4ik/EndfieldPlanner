@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Multi-layered Readiness",
+      "description": "Battle skill Rigid Interdiction and ultimate Textbook Assault improved: After hitting the enemy, deals another strike that deals [300 + DEF×5.0] of Physical DMG."
+    },
+    "Potential 2": {
+      "title": "Bonus Spec Training",
+      "description": "DEF +20, Will +10."
+    },
+    "Potential 3": {
+      "title": "Unwavering Post",
+      "description": "Combo skill Timely Suppression improved: Shield duration +5s."
+    },
+    "Potential 4": {
+      "title": "Compensated Suffering",
+      "description": "Ultimate Textbook Assault improved: Ultimate Energy cost -10%."
+    },
+    "Potential 5": {
+      "title": "Choice Without Regrets",
+      "description": "Battle skill Rigid Interdiction improved: Hitting an enemy while the shield is active returns 10 SP."
+    }
+  },
+  "totalCost": [
+    "Catcher's Token (5)"
+  ]
+}

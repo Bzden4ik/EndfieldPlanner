@@ -1,0 +1,28 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Skirmisher": {
+      "Elite 1": "Operator Agility +10.",
+      "Elite 2": "Operator Agility +15.",
+      "Elite 3": "Operator Agility +15.",
+      "Elite 4": "Operator Agility +20."
+    },
+    "Wildland Trekker": {
+      "Elite 1": "Battle skill Tempestuous Arc improved: Triggering the additional effect 3 time(s) grants the team Electric DMG Dealt +0.05% for every point of Arclight's Intellect. This effect has a 15s duration and cannot stack.",
+      "Elite 2": "Battle skill Tempestuous Arc improved: Triggering the additional effect 3 time(s) grants the team Electric DMG Dealt +0.08% for every point of Arclight's Intellect. This effect has a 15s duration and cannot stack."
+    },
+    "Hannabit Wisdom": {
+      "Elite 2": "30% chance to ignore an Arts Infliction applied on her.",
+      "Elite 3": "50% chance to ignore an Arts Infliction applied on her."
+    },
+    "Blade of the Wildlands": {
+      "Elite 1": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10%",
+      "Elite 3": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%"
+    },
+    "Hanna Traditions": {
+      "Elite 2": "Assign to Reception Room to grant operators a small Clue 6 Rate-UP: Hannabit Circuit (activates upon assignment; effects of the same type cannot stack)",
+      "Elite 4": "Assign to Reception Room to grant operators Clue 6 Rate-UP: Hannabit Circuit (activates upon assignment; effects of the same type cannot stack)"
+    }
+  },
+  "costs": {}
+}

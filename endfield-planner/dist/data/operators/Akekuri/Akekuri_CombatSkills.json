@@ -1,0 +1,236 @@
+{
+  "Sword of Aspiration": {
+    "type": "Basic Attack",
+    "description": "BASIC ATTACK: \nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger. \nDIVE ATTACK: \nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies. \nFINISHER: \nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "stats": {
+      "BATK SEQ 1 Multiplier": [
+        "20%",
+        "22%",
+        "24%",
+        "26%",
+        "28%",
+        "30%",
+        "32%",
+        "34%",
+        "36%",
+        "39%",
+        "42%",
+        "45%"
+      ],
+      "BATK SEQ 2 Multiplier": [
+        "28%",
+        "30%",
+        "33%",
+        "36%",
+        "39%",
+        "41%",
+        "44%",
+        "47%",
+        "50%",
+        "53%",
+        "57%",
+        "62%"
+      ],
+      "BATK SEQ 3 Multiplier": [
+        "33%",
+        "36%",
+        "39%",
+        "42%",
+        "46%",
+        "49%",
+        "52%",
+        "55%",
+        "59%",
+        "63%",
+        "67%",
+        "73%"
+      ],
+      "BATK SEQ 4 Multiplier": [
+        "50%",
+        "54%",
+        "59%",
+        "64%",
+        "69%",
+        "74%",
+        "79%",
+        "84%",
+        "89%",
+        "95%",
+        "103%",
+        "111%"
+      ],
+      "Finisher ATK Multiplier": [
+        "400%",
+        "440%",
+        "480%",
+        "520%",
+        "560%",
+        "600%",
+        "640%",
+        "680%",
+        "720%",
+        "770%",
+        "830%",
+        "900%"
+      ],
+      "Dive ATK Multiplier": [
+        "80%",
+        "88%",
+        "96%",
+        "104%",
+        "112%",
+        "120%",
+        "128%",
+        "136%",
+        "144%",
+        "154%",
+        "166%",
+        "180%"
+      ]
+    }
+  },
+  "Burst of Passion": {
+    "type": "Battle Skill",
+    "description": "SKILL DESCRIPTION: A frontal slash that deals Heat DMG and applies Heat Infliction.",
+    "stats": {
+      "SP Cost": [
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+      ],
+      "DMG Multiplier": [
+        "142%",
+        "156%",
+        "171%",
+        "185%",
+        "199%",
+        "213%",
+        "228%",
+        "242%",
+        "256%",
+        "274%",
+        "295%",
+        "320%"
+      ],
+      "Stagger": [
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10"
+      ]
+    }
+  },
+  "Flash and Dash": {
+    "type": "Combo Skill",
+    "description": "COMBO TRIGGER: When an enemy becomes Staggered or hits a Stagger Node. SKILL DESCRIPTION: Performs a returning dash with 2 thrust sequences, with each sequence dealing Physical DMG and recovering some SP.",
+    "stats": {
+      "Cooldown": [
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "10",
+        "9"
+      ],
+      "DMG Multiplier per SEQ": [
+        "80%",
+        "88%",
+        "96%",
+        "104%",
+        "112%",
+        "120%",
+        "128%",
+        "136%",
+        "144%",
+        "154%",
+        "166%",
+        "180%"
+      ],
+      "Stagger per SEQ": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "SP Recovery per SEQ": [
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5"
+      ]
+    }
+  },
+  "SQUAD! ON ME!": {
+    "type": "Ultimate",
+    "description": "SKILL DESCRIPTION: Enters a channeling state and fires 3 Rallying Flares. Each firing recovers some SP.",
+    "stats": {
+      "Ultimate Energy Cost": [
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120",
+        "120"
+      ],
+      "SP Recovery": [
+        "58",
+        "60",
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "72",
+        "74",
+        "76",
+        "78",
+        "80"
+      ]
+    }
+  }
+}

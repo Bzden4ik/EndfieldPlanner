@@ -1,0 +1,11 @@
+{
+  "name": "Miner Comm T1",
+  "typeAndLevel": "EDC | Lv.50",
+  "itemId": "item_equip_t3_parts_tundra01_edc_04",
+  "imageSrc": "item_equip_t3_parts_tundra01_edc_04.png",
+  "mainStat": "DEF +15",
+  "subStats": [
+    "Will +31",
+    "Heal Output +15.6%"
+  ]
+}

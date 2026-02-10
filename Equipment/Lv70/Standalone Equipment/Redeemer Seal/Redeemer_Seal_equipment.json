@@ -1,0 +1,11 @@
+{
+  "name": "Redeemer Seal",
+  "typeAndLevel": "EDC | Lv.70",
+  "itemId": "item_equip_t4_parts_wuling01_edc_03",
+  "imageSrc": "item_equip_t4_parts_wuling01_edc_03.png",
+  "mainStat": "DEF +21",
+  "subStats": [
+    "Intellect +43",
+    "Ultimate SP Gain +25.7%"
+  ]
+}

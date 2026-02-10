@@ -1,0 +1,14 @@
+{
+  "name": "Catcher",
+  "class": "Defender",
+  "weapon": "Great Sword",
+  "element": "Physical",
+  "faction": "Endfield Industries",
+  "tags": [
+    "Protect",
+    "Shield",
+    "Weaken"
+  ],
+  "mainAttribute": "Strength",
+  "subAttribute": "Will"
+}

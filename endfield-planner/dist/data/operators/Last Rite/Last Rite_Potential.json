@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Undertaker's Gift",
+      "description": "When the controlled operator with Hypothermic Perfusion performs a Final Strike that hits the enemy, it deals another 20% DMG and 5 Stagger."
+    },
+    "Potential 2": {
+      "title": "Absolute Zero Armament",
+      "description": "Strength +20, Cryo DMG Dealt +10%."
+    },
+    "Potential 3": {
+      "title": "Overlord of Winter",
+      "description": "Combo skill Winter's Devourer and ultimate Vigil Services improved: DMG multiplier increased to 1.15 times the original."
+    },
+    "Potential 4": {
+      "title": "Sincere Wake",
+      "description": "Ultimate Vigil Services improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Winter is Returning",
+      "description": "Battle skill Esoteric Legacy of Seš'qa improved: Amount of SP returned is increased by another 5; Mirage Additional ATK Multiplier is increased to 1.2 times the original."
+    }
+  },
+  "totalCost": [
+    "Last Rite's Token (5)"
+  ]
+}

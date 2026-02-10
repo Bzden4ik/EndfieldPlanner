@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Main Attribute Boost [L]",
+    "Critical Rate Boost [L]",
+    "Twilight: Azure Clouds"
+  ],
+  [
+    "Rank 1",
+    "Main attribute +17",
+    "Critical Rate +2.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +15%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +50%."
+  ],
+  [
+    "Rank 2",
+    "Main attribute +30",
+    "Critical Rate +4.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +18%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +60%."
+  ],
+  [
+    "Rank 3",
+    "Main attribute +44",
+    "Critical Rate +6.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +21%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +70%."
+  ],
+  [
+    "Rank 4",
+    "Main attribute +57",
+    "Critical Rate +8.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +24%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +80%."
+  ],
+  [
+    "Rank 5",
+    "Main attribute +71",
+    "Critical Rate +10.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +27%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +90%."
+  ],
+  [
+    "Rank 6",
+    "Main attribute +85",
+    "Critical Rate +12.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +30%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +100%."
+  ],
+  [
+    "Rank 7",
+    "Main attribute +98",
+    "Critical Rate +14.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +33%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +110%."
+  ],
+  [
+    "Rank 8",
+    "Main attribute +112",
+    "Critical Rate +16.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +36%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +120%."
+  ],
+  [
+    "Rank 9",
+    "Main attribute +132",
+    "Critical Rate +19.5%",
+    "Battle skills and ultimates gain Physical DMG Dealt +42%. Against Staggered enemies, battle skills and ultimates also gain DMG Dealt +140%."
+  ]
+]

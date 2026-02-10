@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Above the Clouds",
+      "description": "Battle skill Arcane Staff: Gravity Mode improved: Effect radius +20%."
+    },
+    "Potential 2": {
+      "title": "Wind Walker",
+      "description": "Ultimate Arcane Staff: Gravity Field improved: When an enemy is affected by the Anomalous Gravity Field of the ultimate, each stack of Vulnerability multiplies the effect of Arts Susceptibility. When finalizing the effects, the target is treated as having 1 additional stack of Vulnerability (maxes out at 4 stacks)."
+    },
+    "Potential 3": {
+      "title": "Quick, Gentle Steps",
+      "description": "Talent Messenger's Song improved: Ultimate Gain Efficiency +5%."
+    },
+    "Potential 4": {
+      "title": "Dances with Clouds",
+      "description": "Ultimate Arcane Staff: Gravity Field improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Special Mail",
+      "description": "Combo skill Arcane Staff: Matrix Displacement improved: Length of cooldown -2s; DMG multiplier is increased to 1.3 times the original."
+    }
+  },
+  "totalCost": [
+    "Gilberta's Token (5)"
+  ]
+}

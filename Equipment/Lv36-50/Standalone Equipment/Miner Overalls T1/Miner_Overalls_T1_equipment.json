@@ -1,0 +1,12 @@
+{
+  "name": "Miner Overalls T1",
+  "typeAndLevel": "Body | Lv.50",
+  "itemId": "item_equip_t3_parts_tundra01_body_02",
+  "imageSrc": "item_equip_t3_parts_tundra01_body_02.png",
+  "mainStat": "DEF +40",
+  "subStats": [
+    "Intellect +65",
+    "Agility +43",
+    "ATK +7.8%"
+  ]
+}

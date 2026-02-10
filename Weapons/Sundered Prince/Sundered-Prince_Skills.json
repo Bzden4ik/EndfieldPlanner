@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Strength Boost [L]",
+    "Critical Rate Boost [L]",
+    "Crusher: Princely Deterrence"
+  ],
+  [
+    "Rank 1",
+    "Strength +20",
+    "Critical Rate +2.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +10% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +12% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Strength +36",
+    "Critical Rate +4.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +12% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +14.4% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Strength +52",
+    "Critical Rate +6.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +14% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +16.8% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Strength +68",
+    "Critical Rate +8.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +16% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +19.2% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Strength +84",
+    "Critical Rate +10.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +18% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +21.6% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Strength +100",
+    "Critical Rate +12.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +20% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +24% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Strength +116",
+    "Critical Rate +14.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +22% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +26.4% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Strength +132",
+    "Critical Rate +16.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +24% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +28.8% to the enemy. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Strength +156",
+    "Critical Rate +19.5%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +28% for 8.00s. If the wielder is also the controlled operator, double the ATK increase gained and buff the Final Strike so that it deals Stagger +33.6% to the enemy. Effects of the same name cannot stack."
+  ]
+]

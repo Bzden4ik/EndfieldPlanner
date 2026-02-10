@@ -1,0 +1,11 @@
+{
+  "name": "Miner Comm",
+  "typeAndLevel": "EDC | Lv.36",
+  "itemId": "item_equip_t2_parts_tundra01_edc_04",
+  "imageSrc": "item_equip_t2_parts_tundra01_edc_04.png",
+  "mainStat": "DEF +11",
+  "subStats": [
+    "Will +22",
+    "HP +22.8%"
+  ]
+}

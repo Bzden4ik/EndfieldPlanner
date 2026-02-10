@@ -1,0 +1,12 @@
+{
+  "name": "Miner Gauntlets",
+  "typeAndLevel": "Hand | Lv.20",
+  "itemId": "item_equip_t1_parts_tundra01_hand_01",
+  "imageSrc": "item_equip_t1_parts_tundra01_hand_01.png",
+  "mainStat": "DEF +12",
+  "subStats": [
+    "Strength +20",
+    "Agility +13",
+    "HP +11.0%"
+  ]
+}

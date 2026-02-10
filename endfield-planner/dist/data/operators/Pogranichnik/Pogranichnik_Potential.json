@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Frontline Sweep",
+      "description": "Battle skill The Pulverizing Front improved: When hitting at least 2 enemies, 15 SP is returned."
+    },
+    "Potential 2": {
+      "title": "\"Advance\"",
+      "description": "Will +20, Physical DMG Dealt +10%."
+    },
+    "Potential 3": {
+      "title": "When the Banner Flutters",
+      "description": "Talent The Living Banner improved: Amount of SP recovery needed to gain Fervent Morale is reduced to 60. Max Fervent Morale stacks on self +2."
+    },
+    "Potential 4": {
+      "title": "Shield of Talos-II",
+      "description": "Ultimate Shieldguard Banner, Forward improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Newly Forged Blade",
+      "description": "Combo skill Full Moon Slash improved: Length of cooldown -2s; SP recovery is increased to 1.2 times the original."
+    }
+  },
+  "totalCost": [
+    "Pogranichnik's Token (5)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Skirmisher": {
+      "Elite 1": "Operator Agility +10.",
+      "Elite 2": "Operator Agility +15.",
+      "Elite 3": "Operator Agility +15.",
+      "Elite 4": "Operator Agility +20."
+    },
+    "Essence Disintegration": {
+      "Elite 1": "When the Originium Crystals attached to the enemy are consumed, the Endministrator gains ATK +15% for 15s. This effect cannot stack.",
+      "Elite 2": "When the Originium Crystals attached to the enemy are consumed, the Endministrator gains ATK +30% for 15s. This effect cannot stack."
+    },
+    "Realspace Stasis": {
+      "Elite 2": "Enemies with attached Originium Crystals suffer Physical DMG Taken +10%.",
+      "Elite 3": "Enemies with attached Originium Crystals suffer Physical DMG Taken +20%."
+    }
+  },
+  "costs": {}
+}

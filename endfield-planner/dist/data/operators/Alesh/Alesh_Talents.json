@@ -1,0 +1,28 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Forged": {
+      "Elite 1": "Operator Strength +10.",
+      "Elite 2": "Operator Strength +15.",
+      "Elite 3": "Operator Strength +15.",
+      "Elite 4": "Operator Strength +20."
+    },
+    "Flash-frozen for Freshness": {
+      "Elite 1": "After Solidification or Originium Crystals are applied to a nearby enemy, Alesh gains 3 Ultimate Energy. If the said Solidification is applied by Alesh, he gains an additional 6 Ultimate Energy. This effect can only trigger once every 3s.",
+      "Elite 2": "After Solidification or Originium Crystals are applied to a nearby enemy, Alesh gains 4 Ultimate Energy. If the said Solidification is applied by Alesh, he gains an additional 8 Ultimate Energy. This effect can only trigger once every 3s."
+    },
+    "Veteran Angler": {
+      "Elite 2": "Combo skill Auger Angling improved: Every 10 Intellect grants Rare Fin catching chance +0.2% (max: +30%).",
+      "Elite 3": "Combo skill Auger Angling improved: Every 10 Intellect grants Rare Fin catching chance +0.5% (max: +30%)."
+    },
+    "Casual Angling": {
+      "Elite 1": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+      "Elite 3": "Assign to Control Nexus to grant all operators' Mood Regen +12%"
+    },
+    "Anglers' Intel Network": {
+      "Elite 2": "Assign to Reception Room to grant operators a small Clue 1 Rate-UP: UWST (activates upon assignment; effects of the same type cannot stack)",
+      "Elite 4": "Assign to Reception Room to grant operators Clue 1 Rate-UP: UWST (activates upon assignment; effects of the same type cannot stack)"
+    }
+  },
+  "costs": {}
+}

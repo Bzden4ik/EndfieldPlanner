@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Final Awakening",
+      "description": "Battle skill Constructive Sequence improved: Consuming Originium Crystals returns 50 SP."
+    },
+    "Potential 2": {
+      "title": "Reflection of Authority",
+      "description": "Talent Essence Disintegration improved: When the Endministrator gains the ATK buff, other allied operators gain half of this ATK buff."
+    },
+    "Potential 3": {
+      "title": "???",
+      "description": "???"
+    },
+    "Potential 4": {
+      "title": "???",
+      "description": "???"
+    },
+    "Potential 5": {
+      "title": "???",
+      "description": "???"
+    }
+  },
+  "totalCost": [
+    "Endministrator's Token (5)"
+  ]
+}

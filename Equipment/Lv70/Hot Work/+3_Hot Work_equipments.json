@@ -1,0 +1,77 @@
+{
+  "name": "Hot Work",
+  "setEffect": "3-piece set effect: Wearer's Arts Intensity +30. After the wearer applies Combustion, the wearer gains Heat DMG +50% for 10s. After the wearer applies Corrosion, the wearer gains Nature DMG +50% for 10s. The aforementioned effects cannot stack.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_fire_natr01_body_01",
+        "imageSrc": "item_equip_t4_suit_fire_natr01_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Strength": "113",
+          "Agility": "75",
+          "Heat & Nature DMG": "14.9%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_fire_natr01_hand_02",
+        "imageSrc": "item_equip_t4_suit_fire_natr01_hand_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "84",
+          "Strength": "55",
+          "Heat & Nature DMG": "24.9%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_fire_natr01_hand_03",
+        "imageSrc": "item_equip_t4_suit_fire_natr01_hand_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Will": "84",
+          "Intellect": "55",
+          "Heat & Nature DMG": "24.9%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_fire_natr01_edc_01",
+        "imageSrc": "item_equip_t4_suit_fire_natr01_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "41",
+          "Agility": "27",
+          "Arts Intensity": "53.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_fire_natr01_edc_02",
+        "imageSrc": "item_equip_t4_suit_fire_natr01_edc_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Intellect": "53",
+          "Normal Skill DMG": "53.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_fire_natr01_edc_03",
+        "imageSrc": "item_equip_t4_suit_fire_natr01_edc_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "41",
+          "Intellect": "27",
+          "Arts Intensity": "53.8%"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Intellect Boost [S]",
+    "ATK Boost [S]",
+    "Suppression: Emergency Boost"
+  ],
+  [
+    "Rank 1",
+    "Intellect +12",
+    "Attack +3%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +12% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Intellect +21",
+    "Attack +5.4%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +14.4% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Intellect +31",
+    "Attack +7.8%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +16.8% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Intellect +40",
+    "Attack +10.2%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +19.2% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Intellect +50",
+    "Attack +12.6%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +21.6% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Intellect +60",
+    "Attack +15%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +24% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Intellect +69",
+    "Attack +17.4%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +26.4% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Intellect +79",
+    "Attack +19.8%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +28.8% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Intellect +93",
+    "Attack +23.4%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +33.6% for 20.00s. Effects of the same name cannot stack."
+  ]
+]

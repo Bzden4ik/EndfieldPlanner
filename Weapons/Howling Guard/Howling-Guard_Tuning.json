@@ -1,0 +1,39 @@
+[
+  {
+    "level": "Level 1",
+    "requirement": "Raise Howling Guard to level 20:",
+    "resources": [
+      "Cast Die (5)",
+      "Kalkonyx (3)",
+      "T-Creds (2.2K)"
+    ]
+  },
+  {
+    "level": "Level 2",
+    "requirement": "Raise Howling Guard to level 40:",
+    "resources": [
+      "Cast Die (18)",
+      "Auronyx (5)",
+      "T-Creds (8.5K)"
+    ]
+  },
+  {
+    "level": "Level 3",
+    "requirement": "Raise Howling Guard to level 60:",
+    "resources": [
+      "Heavy Cast Die (20)",
+      "Umbronyx (5)",
+      "T-Creds (25K)"
+    ]
+  },
+  {
+    "level": "Level 4",
+    "requirement": "Raise Howling Guard to level 80:",
+    "resources": [
+      "Heavy Cast Die (30)",
+      "D96 Steel Sample 4 (16)",
+      "Igneosite (8)",
+      "T-Creds (90K)"
+    ]
+  }
+]

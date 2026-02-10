@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Heart of Melting Flame",
+      "description": "Battle skill Smouldering Fire improved: Additional attack multiplier is increased to 1.2 times the original, and scoring a hit returns 20 SP."
+    },
+    "Potential 2": {
+      "title": "Pursuit of Memories",
+      "description": "Intellect +20, Basic Attack DMG Dealt +15%."
+    },
+    "Potential 3": {
+      "title": "Fragments from the Past",
+      "description": "Battle skill Smouldering Fire improved: Duration of the Combustion applied by the skill is increased by 50%. DMG of the Combustion applied by the skills is increased to 1.5 times the original."
+    },
+    "Potential 4": {
+      "title": "Ice Cream Furnace",
+      "description": "Ultimate Twilight improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Proof of Existence",
+      "description": "Ultimate Twilight improved: Enhanced basic attack DMG multiplier is increased to 1.2 times the original; during the ultimate, every enemy defeated by Laevatain extends ultimate duration by +1s (max: +7s)."
+    }
+  },
+  "totalCost": [
+    "Laevatain's Token (5)"
+  ]
+}

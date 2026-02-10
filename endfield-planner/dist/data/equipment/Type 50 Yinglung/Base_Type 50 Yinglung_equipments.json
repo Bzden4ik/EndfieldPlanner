@@ -1,0 +1,89 @@
+{
+  "name": "Type 50 Yinglung",
+  "setEffect": "3-piece set effect: Wearer's ATK +15%. When any operator in the team casts a battle skill, the wearer gains 1 stack of Yinglung's Edge that gives DMG +20% to the wearer's next combo skill. Yinglung's Edge can stack 3 time(s).",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_atk02_body_01",
+        "imageSrc": "item_equip_t4_suit_atk02_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Strength": "87",
+          "Will": "58",
+          "Physical DMG": "11.5%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atk02_body_04",
+        "imageSrc": "item_equip_t4_suit_atk02_body_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "87",
+          "Strength": "58",
+          "All Skill DMG": "13.8%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_atk02_hand_01",
+        "imageSrc": "item_equip_t4_suit_atk02_hand_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Agility": "65",
+          "Intellect": "43",
+          "Combo Skill DMG": "34.5%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atk02_hand_02",
+        "imageSrc": "item_equip_t4_suit_atk02_hand_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Will": "65",
+          "Agility": "43",
+          "Combo Skill DMG": "34.5%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_atk02_edc_01",
+        "imageSrc": "item_equip_t4_suit_atk02_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "32",
+          "Will": "21",
+          "Physical DMG": "23.0%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atk02_edc_04",
+        "imageSrc": "item_equip_t4_suit_atk02_edc_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "32",
+          "Agility": "21",
+          "Combo Skill DMG": "41.4%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atk02_edc_05",
+        "imageSrc": "item_equip_t4_suit_atk02_edc_05.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Intellect": "32",
+          "Strength": "21",
+          "All Skill DMG": "27.6%"
+        }
+      }
+    ]
+  }
+}

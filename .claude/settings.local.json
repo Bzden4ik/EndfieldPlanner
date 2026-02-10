@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -I {} sh -c 'echo \"\"=== {} ===\"\" && head -20 \"\"{}\"\"')",
+      "Bash(npm run build:*)",
+      "Bash(timeout 15 npm run dev:*)",
+      "Bash(timeout 5 npm run dev:*)",
+      "Bash(for char in \"Endministrator\" \"Laevatain\" \"Ardelia\" \"Gilberta\" \"Last Rite\" \"Lifeng\" \"Pogranichnik\" \"Ember\" \"Yvonne\" \"Chen Qianyu\" \"Arclight\" \"Perlica\" \"Avywenna\" \"Snowshine\" \"Da Pan\" \"Wulfgard\" \"Akekuri\" \"Antal\" \"Catcher\" \"Fluorite\")",
+      "Bash(do)",
+      "Bash(if [ -f \"C:/Users/warfa/Downloads/Endfield/endfield-planner/public/data/operators/$char/$char_Talents.json\" ])",
+      "Bash(then)",
+      "Bash(echo:*)",
+      "Bash(else)",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(npm run dev:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

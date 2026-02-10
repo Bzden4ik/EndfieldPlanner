@@ -1,0 +1,13 @@
+{
+  "name": "Last Rite",
+  "class": "Striker",
+  "weapon": "Great Sword",
+  "element": "Cryo",
+  "faction": "File:Seš'qa.png Seš'qa",
+  "tags": [
+    "Damage Dealer",
+    "Cryo Infliction"
+  ],
+  "mainAttribute": "Strength",
+  "subAttribute": "Will"
+}

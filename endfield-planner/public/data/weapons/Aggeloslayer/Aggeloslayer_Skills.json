@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Will Boost [S]",
+    "Arts Boost [S]",
+    "Suppression: Emergency Boost"
+  ],
+  [
+    "Rank 1",
+    "Will +12",
+    "Arts DMG Dealt +3.33%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +12% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Will +21",
+    "Arts DMG Dealt +6%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +14.4% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Will +31",
+    "Arts DMG Dealt +8.67%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +16.8% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Will +40",
+    "Arts DMG Dealt +11.33%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +19.2% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Will +50",
+    "Arts DMG Dealt +14%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +21.6% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Will +60",
+    "Arts DMG Dealt +16.67%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +24% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Will +69",
+    "Arts DMG Dealt +19.33%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +26.4% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Will +79",
+    "Arts DMG Dealt +22%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +28.8% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Will +93",
+    "Arts DMG Dealt +26%",
+    "When the wielder's battle skill hits the enemy, the wielder gains ATK +33.6% for 20.00s. Effects of the same name cannot stack."
+  ]
+]

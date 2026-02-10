@@ -1,0 +1,28 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Forged": {
+      "Elite 1": "Operator Strength +10.",
+      "Elite 2": "Operator Strength +15.",
+      "Elite 3": "Operator Strength +15.",
+      "Elite 4": "Operator Strength +20."
+    },
+    "Scorching Fangs": {
+      "Elite 1": "Whenever Wulfgard applies Combustion, he gains Scorching Fangs for 10s. This effect cannot stack. Scorching Fangs: While active, Wulfgard gains Heat DMG Dealt +20%.",
+      "Elite 2": "Whenever Wulfgard applies Combustion, he gains Scorching Fangs for 10s. This effect cannot stack. Scorching Fangs: While active, Wulfgard gains Heat DMG Dealt +30%."
+    },
+    "Code of Restraint": {
+      "Elite 2": "Whenever the battle skill Thermite Tracers successfully consumes an Arts Reaction, return 5 SP.",
+      "Elite 3": "Whenever the battle skill Thermite Tracers successfully consumes an Arts Reaction, return 10 SP."
+    },
+    "Pack Techniques": {
+      "Elite 1": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +10%",
+      "Elite 3": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%"
+    },
+    "Knack for the Wildlands": {
+      "Elite 2": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+      "Elite 4": "Assign to Growth Chamber to grant rare mineral growth rate +30%"
+    }
+  },
+  "costs": {}
+}

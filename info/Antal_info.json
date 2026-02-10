@@ -1,0 +1,13 @@
+{
+  "name": "Antal",
+  "class": "Supporter",
+  "weapon": "Arts Unit",
+  "element": "Electric",
+  "faction": "Endfield Industries",
+  "tags": [
+    "Arts Susc.",
+    "Amp"
+  ],
+  "mainAttribute": "Intellect",
+  "subAttribute": "Strength"
+}

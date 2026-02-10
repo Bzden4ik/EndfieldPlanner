@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "HP": {
+      "Base": "500",
+      "Elite 1": "1566",
+      "Elite 2": "2689",
+      "Elite 3": "3811",
+      "Elite 4": "4934",
+      "Elite 4 Max": "5495"
+    },
+    "ATK": {
+      "Base": "30",
+      "Elite 1": "90",
+      "Elite 2": "152",
+      "Elite 3": "215",
+      "Elite 4": "277",
+      "Elite 4 Max": "309"
+    },
+    "STR": {
+      "Base": "20",
+      "Elite 1": "49",
+      "Elite 2": "80",
+      "Elite 3": "111",
+      "Elite 4": "142",
+      "Elite 4 Max": "158"
+    },
+    "AGL": {
+      "Base": "9",
+      "Elite 1": "27",
+      "Elite 2": "47",
+      "Elite 3": "66",
+      "Elite 4": "86",
+      "Elite 4 Max": "95"
+    },
+    "INT": {
+      "Base": "13",
+      "Elite 1": "37",
+      "Elite 2": "62",
+      "Elite 3": "87",
+      "Elite 4": "113",
+      "Elite 4 Max": "125"
+    },
+    "WIL": {
+      "Base": "10",
+      "Elite 1": "27",
+      "Elite 2": "45",
+      "Elite 3": "63",
+      "Elite 4": "81",
+      "Elite 4 Max": "89"
+    }
+  },
+  "class": "Forged"
+}

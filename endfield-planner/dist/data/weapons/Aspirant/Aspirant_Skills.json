@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Agility Boost [M]",
+    "Physical DMG Boost [M]",
+    "Twilight: Imposing Peak"
+  ],
+  [
+    "Rank 1",
+    "Agility +16",
+    "Physical DMG Dealt +4.44%",
+    "Ultimate DMG Dealt +16%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +12%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 2",
+    "Agility +28",
+    "Physical DMG Dealt +8%",
+    "Ultimate DMG Dealt +19.2%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +14.4%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 3",
+    "Agility +41",
+    "Physical DMG Dealt +11.56%",
+    "Ultimate DMG Dealt +22.4%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +16.8%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 4",
+    "Agility +54",
+    "Physical DMG Dealt +15.11%",
+    "Ultimate DMG Dealt +25.6%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +19.2%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 5",
+    "Agility +67",
+    "Physical DMG Dealt +18.67%",
+    "Ultimate DMG Dealt +28.8%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +21.6%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 6",
+    "Agility +80",
+    "Physical DMG Dealt +22.22%",
+    "Ultimate DMG Dealt +32%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +24%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 7",
+    "Agility +92",
+    "Physical DMG Dealt +25.78%",
+    "Ultimate DMG Dealt +35.2%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +26.4%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 8",
+    "Agility +105",
+    "Physical DMG Dealt +29.33%",
+    "Ultimate DMG Dealt +38.4%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +28.8%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ],
+  [
+    "Rank 9",
+    "Agility +124",
+    "Physical DMG Dealt +34.67%",
+    "Ultimate DMG Dealt +44.8%. After the wielder applies Lifted, during the next ultimate cast within 30.00s, the wielder gains Physical DMG Dealt +33.6%. Max stacks for effects of the same name: 3.00. Duration of each stack is counted separately. Effect only triggers once every 0.5s."
+  ]
+]

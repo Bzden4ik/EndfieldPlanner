@@ -1,0 +1,14 @@
+{
+  "name": "Yvonne",
+  "class": "Striker",
+  "weapon": "Handcannon",
+  "element": "Cryo",
+  "faction": "Endfield Industries",
+  "tags": [
+    "Damage Dealer",
+    "Solidify",
+    "Crit"
+  ],
+  "mainAttribute": "Intellect",
+  "subAttribute": "Agility"
+}

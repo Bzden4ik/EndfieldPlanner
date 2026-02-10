@@ -1,0 +1,12 @@
+{
+  "name": "Basic PPE",
+  "typeAndLevel": "Body | Lv.10",
+  "itemId": "item_equip_t0_parts_tundra01_body_02",
+  "imageSrc": "item_equip_t0_parts_tundra01_body_02.png",
+  "mainStat": "DEF +8",
+  "subStats": [
+    "Intellect +15",
+    "Will +10",
+    "HP +46.3%"
+  ]
+}

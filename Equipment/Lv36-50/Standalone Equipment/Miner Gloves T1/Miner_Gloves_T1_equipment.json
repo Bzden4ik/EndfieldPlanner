@@ -1,0 +1,12 @@
+{
+  "name": "Miner Gloves T1",
+  "typeAndLevel": "Hand | Lv.36",
+  "itemId": "item_equip_t2_parts_tundra01_hand_02",
+  "imageSrc": "item_equip_t2_parts_tundra01_hand_02.png",
+  "mainStat": "DEF +22",
+  "subStats": [
+    "Intellect +36",
+    "Agility +24",
+    "HP +19.0%"
+  ]
+}

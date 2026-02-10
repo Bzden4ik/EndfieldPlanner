@@ -1,0 +1,11 @@
+{
+  "name": "Miner Drive Wheel",
+  "typeAndLevel": "EDC | Lv.36",
+  "itemId": "item_equip_t2_parts_tundra01_edc_02",
+  "imageSrc": "item_equip_t2_parts_tundra01_edc_02.png",
+  "mainStat": "DEF +11",
+  "subStats": [
+    "Agility +22",
+    "Crit Rate +5.7%"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pogranichnik",
+  "class": "Vanguard",
+  "weapon": "Sword",
+  "element": "Physical",
+  "faction": "Rhodes Island",
+  "tags": [
+    "SP Recovery",
+    "Breach"
+  ],
+  "mainAttribute": "Will",
+  "subAttribute": "Agility"
+}

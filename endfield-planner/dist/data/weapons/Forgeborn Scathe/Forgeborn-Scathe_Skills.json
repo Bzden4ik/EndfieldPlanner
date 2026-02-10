@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Intellect Boost [L]",
+    "Attack Boost [L]",
+    "Twilight: Blazing Wail"
+  ],
+  [
+    "Rank 1",
+    "Intellect +20",
+    "Attack +5%",
+    "Heat DMG Dealt +16%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +75% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Intellect +36",
+    "Attack +9%",
+    "Heat DMG Dealt +19.2%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +90% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Intellect +52",
+    "Attack +13%",
+    "Heat DMG Dealt +22.4%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +105% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Intellect +68",
+    "Attack +17%",
+    "Heat DMG Dealt +25.6%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +120% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Intellect +84",
+    "Attack +21%",
+    "Heat DMG Dealt +28.8%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +135% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Intellect +100",
+    "Attack +25%",
+    "Heat DMG Dealt +32%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +150% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Intellect +116",
+    "Attack +29%",
+    "Heat DMG Dealt +35.2%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +165% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Intellect +132",
+    "Attack +33%",
+    "Heat DMG Dealt +38.4%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +180% for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Intellect +156",
+    "Attack +39%",
+    "Heat DMG Dealt +44.8%. When the wielder casts an ultimate, the wielder gains Basic Attack DMG Dealt +210% for 20.00s. Effects of the same name cannot stack."
+  ]
+]

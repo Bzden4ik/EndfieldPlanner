@@ -1,0 +1,29 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Keen Mind": {
+      "Elite 1": "Operator Intellect +10.",
+      "Elite 2": "Operator Intellect +15.",
+      "Elite 3": "Operator Intellect +15.",
+      "Elite 4": "Operator Intellect +20."
+    },
+    "Scorching Heart": {
+      "Elite 0": "After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\nEvery stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4). \nAfter reaching 4 stacks, DMG dealt by Laevatain ignores 10 Heat Resistance of the enemy for 20s. \nLaevatain also absorbs Heat Infliction from enemies defeated nearby.",
+      "Elite 1": "After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\nEvery stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4). \nAfter reaching 4 stacks, DMG dealt by Laevatain ignores 15 Heat Resistance of the enemy for 20s. \nLaevatain also absorbs Heat Infliction from enemies defeated nearby.",
+      "Elite 3": "After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\nEvery stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4). \nAfter reaching 4 stacks, DMG dealt by Laevatain ignores 20 Heat Resistance of the enemy for 20s. \nLaevatain also absorbs Heat Infliction from enemies defeated nearby."
+    },
+    "Re-Ignition": {
+      "Elite 2": "When HP drops below 40%, gain 90% Protection and restore 5% Max HP per second for 4s. This effect triggers once every 120s.",
+      "Elite 3": "When HP drops below 40%, gain 90% Protection and restore 5% Max HP per second for 8s. This effect triggers once every 120s."
+    },
+    "Memory Crucible": {
+      "Elite 1": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+      "Elite 3": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%"
+    },
+    "Undying Flames": {
+      "Elite 2": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+      "Elite 4": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18%"
+    }
+  },
+  "costs": {}
+}

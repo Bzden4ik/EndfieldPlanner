@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Positive Feedback",
+      "description": "After recovering SP with skills, Akekuri gains ATK +10% for 10s. This effect can reach 5 stacks."
+    },
+    "Potential 2": {
+      "title": "Passionate Idealist",
+      "description": "Agility +10, Intellect +10."
+    },
+    "Potential 3": {
+      "title": "Committed Team Player",
+      "description": "Ultimate SQUAD! ON ME! improved: While ultimate is active, entire team gains ATK +10%."
+    },
+    "Potential 4": {
+      "title": "Super Perfect Status",
+      "description": "Ultimate SQUAD! ON ME! improved: Ultimate Energy cost -10%."
+    },
+    "Potential 5": {
+      "title": "Tempo of Awareness",
+      "description": "Talent Staying in the Zone improved: Even when the ultimate SQUAD! ON ME! ends, the Link buff persists for 5s."
+    }
+  },
+  "totalCost": [
+    "Akekuri's Token (5)"
+  ]
+}

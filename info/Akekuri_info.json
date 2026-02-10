@@ -1,0 +1,14 @@
+{
+  "name": "Akekuri",
+  "class": "Vanguard",
+  "weapon": "Sword",
+  "element": "Heat",
+  "faction": "Endfield Industries",
+  "tags": [
+    "SP Recovery",
+    "Heat Infliction",
+    "Link"
+  ],
+  "mainAttribute": "Agility",
+  "subAttribute": "Intellect"
+}

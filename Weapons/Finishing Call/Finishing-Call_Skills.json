@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Strength Boost [M]",
+    "HP Boost [M]",
+    "Medicant: Glory of Knighthood"
+  ],
+  [
+    "Rank 1",
+    "Strength +16",
+    "Max HP +8%",
+    "Secondary Attribute +5%. Combo skill HP treatment effect +20%."
+  ],
+  [
+    "Rank 2",
+    "Strength +28",
+    "Max HP +14.4%",
+    "Secondary Attribute +6%. Combo skill HP treatment effect +24%."
+  ],
+  [
+    "Rank 3",
+    "Strength +41",
+    "Max HP +20.8%",
+    "Secondary Attribute +7%. Combo skill HP treatment effect +28%."
+  ],
+  [
+    "Rank 4",
+    "Strength +54",
+    "Max HP +27.2%",
+    "Secondary Attribute +8%. Combo skill HP treatment effect +32%."
+  ],
+  [
+    "Rank 5",
+    "Strength +67",
+    "Max HP +33.6%",
+    "Secondary Attribute +9%. Combo skill HP treatment effect +36%."
+  ],
+  [
+    "Rank 6",
+    "Strength +80",
+    "Max HP +40%",
+    "Secondary Attribute +10%. Combo skill HP treatment effect +40%."
+  ],
+  [
+    "Rank 7",
+    "Strength +92",
+    "Max HP +46.4%",
+    "Secondary Attribute +11%. Combo skill HP treatment effect +44%."
+  ],
+  [
+    "Rank 8",
+    "Strength +105",
+    "Max HP +52.8%",
+    "Secondary Attribute +12%. Combo skill HP treatment effect +48%."
+  ],
+  [
+    "Rank 9",
+    "Strength +124",
+    "Max HP +62.4%",
+    "Secondary Attribute +14%. Combo skill HP treatment effect +56%."
+  ]
+]

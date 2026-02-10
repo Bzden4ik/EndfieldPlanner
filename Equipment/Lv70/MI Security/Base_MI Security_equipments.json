@@ -1,0 +1,144 @@
+{
+  "name": "MI Security",
+  "setEffect": "3-piece set effect: Wearer's Critical Rate +5%. After the wearer scores a critical hit, the wearer gains ATK +5% for 5s. This effect can reach 5 stacks. At max stacks, grant an additional Critical Rate +5%. This effect cannot stack.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_01",
+        "imageSrc": "item_equip_t4_suit_criti01_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Agility": "87",
+          "Strength": "58",
+          "Arts Intensity": "20.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_02",
+        "imageSrc": "item_equip_t4_suit_criti01_body_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Intellect": "87",
+          "Agility": "58",
+          "Normal ATK DMG": "13.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_03",
+        "imageSrc": "item_equip_t4_suit_criti01_body_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Intellect": "87",
+          "Will": "58",
+          "Crit Rate": "5.2%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_04",
+        "imageSrc": "item_equip_t4_suit_criti01_body_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "87",
+          "Agility": "58",
+          "Normal Skill DMG": "20.7%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_criti01_hand_01",
+        "imageSrc": "item_equip_t4_suit_criti01_hand_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Agility": "65",
+          "Strength": "43",
+          "Normal Skill DMG": "34.5%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_hand_02",
+        "imageSrc": "item_equip_t4_suit_criti01_hand_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "65",
+          "Agility": "43",
+          "Normal ATK DMG": "23.0%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_hand_03",
+        "imageSrc": "item_equip_t4_suit_criti01_hand_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "65",
+          "Will": "43",
+          "Crit Rate": "8.6%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_01",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "32",
+          "Will": "21",
+          "Cryo & Electric DMG": "23.0%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_02",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Agility": "32",
+          "Strength": "21",
+          "Normal Skill DMG": "41.4%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_03",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Intellect": "32",
+          "Agility": "21",
+          "Crit Rate": "10.3%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_04",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "32",
+          "Intellect": "21",
+          "Heat & Nature DMG": "23.0%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_05",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_05.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "32",
+          "Agility": "21",
+          "Normal Skill DMG": "41.4%"
+        }
+      }
+    ]
+  }
+}

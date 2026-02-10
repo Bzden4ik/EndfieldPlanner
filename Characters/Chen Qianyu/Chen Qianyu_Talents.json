@@ -1,0 +1,28 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Skirmisher": {
+      "Elite 1": "Operator Agility +10.",
+      "Elite 2": "Operator Agility +15.",
+      "Elite 3": "Operator Agility +15.",
+      "Elite 4": "Operator Agility +20."
+    },
+    "Slashing Edge": {
+      "Elite 1": "After hitting an enemy with skills, Chen gains ATK +4% for 10s. This effect can reach 5 stacks.",
+      "Elite 2": "After hitting an enemy with skills, Chen gains ATK +8% for 10s. This effect can reach 5 stacks."
+    },
+    "Momentum Breaker": {
+      "Elite 2": "Interrupting the enemy's charge up deals another 5 Stagger.",
+      "Elite 3": "Interrupting the enemy's charge up deals another 10 Stagger."
+    },
+    "Blade Critique": {
+      "Elite 1": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10%",
+      "Elite 3": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%"
+    },
+    "Jadeworking": {
+      "Elite 2": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+      "Elite 4": "Assign to Growth Chamber to grant rare mineral growth rate +30%"
+    }
+  },
+  "costs": {}
+}

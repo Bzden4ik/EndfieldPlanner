@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Fine Cooking",
+      "description": "Ultimate CHOP 'N DUNK! improved: If the ultimate defeats at least one enemy, Da Pan deals +30% Physical DMG for 15s. This effect cannot stack."
+    },
+    "Potential 2": {
+      "title": "Harmonized Flavors",
+      "description": "Talent Salty or Mild improved: Prep Ingredients buff duration +10s, max stacks +1."
+    },
+    "Potential 3": {
+      "title": "Model Employee",
+      "description": "Strength +15, Physical DMG Dealt +8%."
+    },
+    "Potential 4": {
+      "title": "Special Blend",
+      "description": "Ultimate CHOP 'N DUNK! improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Fire it Up",
+      "description": "Battle skill FLIP DA WOK! improved: If the skill hits only one enemy, apply 1 more stack of Vulnerability on the target. Effect only triggers once every 45s."
+    }
+  },
+  "totalCost": [
+    "Da Pan's Token (5)"
+  ]
+}

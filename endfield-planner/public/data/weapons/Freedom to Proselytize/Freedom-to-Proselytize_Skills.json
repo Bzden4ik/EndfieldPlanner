@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Will Boost [M]",
+    "Treatment Efficiency Boost [M]",
+    "Medicant: Redemption of Faith"
+  ],
+  [
+    "Rank 1",
+    "Will +16",
+    "Treatment Efficiency +4.76%.",
+    "Main Attribute +5%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [60 + Will×0.5] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 2",
+    "Will +28",
+    "Treatment Efficiency +8.57%.",
+    "Main Attribute +6%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [72 + Will×0.6] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 3",
+    "Will +41",
+    "Treatment Efficiency +12.38%.",
+    "Main Attribute +7%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [84 + Will×0.7] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 4",
+    "Will +54",
+    "Treatment Efficiency +16.19%.",
+    "Main Attribute +8%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [96 + Will×0.8] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 5",
+    "Will +67",
+    "Treatment Efficiency +20%.",
+    "Main Attribute +9%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [108 + Will×0.9] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 6",
+    "Will +80",
+    "Treatment Efficiency +23.81%.",
+    "Main Attribute +10%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [120 + Will×1] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 7",
+    "Will +92",
+    "Treatment Efficiency +27.62%.",
+    "Main Attribute +11%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [132 + Will×1.1] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 8",
+    "Will +105",
+    "Treatment Efficiency +31.43%.",
+    "Main Attribute +12%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [144 + Will×1.2] HP. Effect only triggers once every 15.00s."
+  ],
+  [
+    "Rank 9",
+    "Will +124",
+    "Treatment Efficiency +37.14%.",
+    "Main Attribute +14%. When the wielder's battle skill provides HP treatment, the controlled operator is restored for another [168 + Will×1.4] HP. Effect only triggers once every 15.00s."
+  ]
+]

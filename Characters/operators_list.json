@@ -1,0 +1,29 @@
+[
+  {"name": "Laevatain", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Forgeborn Scathe", "folderName": "Laevatain"},
+  {"name": "Snowshine", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Thermite Cutter", "folderName": "Snowshine"},
+  {"name": "Xaihi", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Umbral Torch", "folderName": "Xaihi"},
+  {"name": "Endministrator", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Grand Vision", "folderName": "Endministrator"},
+  {"name": "Lifeng", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Never Rest", "folderName": "Lifeng"},
+  {"name": "Gilberta", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Rapid Ascent", "folderName": "Gilberta"},
+  {"name": "Yvonne", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "Eminent Repute", "folderName": "Yvonne"},
+  {"name": "Arclight", "rarity": 6, "weaponType": "Sword", "signatureWeapon": "White Night Nova", "folderName": "Arclight"},
+  
+  {"name": "Wulfgard", "rarity": 6, "weaponType": "Greatsword", "signatureWeapon": "Sundered Prince", "folderName": "Wulfgard"},
+  {"name": "Perlica", "rarity": 6, "weaponType": "Greatsword", "signatureWeapon": "Thunderberge", "folderName": "Perlica"},
+  {"name": "Pogranichnik", "rarity": 6, "weaponType": "Greatsword", "signatureWeapon": "Khravengger", "folderName": "Pogranichnik"},
+  
+  {"name": "Estella", "rarity": 6, "weaponType": "Polearm", "signatureWeapon": "JET", "folderName": "Estella"},
+  {"name": "Last Rite", "rarity": 6, "weaponType": "Polearm", "signatureWeapon": "Mountain Bearer", "folderName": "Last Rite"},
+  {"name": "Ardelia", "rarity": 6, "weaponType": "Polearm", "signatureWeapon": "Valiant", "folderName": "Ardelia"},
+  
+  {"name": "Fluorite", "rarity": 6, "weaponType": "Handcannon", "signatureWeapon": "Artzy Tyrannical", "folderName": "Fluorite"},
+  {"name": "Antal", "rarity": 6, "weaponType": "Handcannon", "signatureWeapon": "Clannibal", "folderName": "Antal"},
+  {"name": "Chen Qianyu", "rarity": 6, "weaponType": "Handcannon", "signatureWeapon": "Navigator", "folderName": "Chen Qianyu"},
+  {"name": "Akekuri", "rarity": 6, "weaponType": "Handcannon", "signatureWeapon": "Wedge", "folderName": "Akekuri"},
+  
+  {"name": "Avywenna", "rarity": 6, "weaponType": "Arts Unit", "signatureWeapon": "Chivalric Virtues", "folderName": "Avywenna"},
+  {"name": "Ember", "rarity": 6, "weaponType": "Arts Unit", "signatureWeapon": "Delivery Guaranteed", "folderName": "Ember"},
+  {"name": "Da Pan", "rarity": 6, "weaponType": "Arts Unit", "signatureWeapon": "Detonation Unit", "folderName": "Da Pan"},
+  {"name": "Alesh", "rarity": 6, "weaponType": "Arts Unit", "signatureWeapon": "Oblivion", "folderName": "Alesh"},
+  {"name": "Catcher", "rarity": 6, "weaponType": "Arts Unit", "signatureWeapon": "Opus Etch Figure", "folderName": "Catcher"}
+]

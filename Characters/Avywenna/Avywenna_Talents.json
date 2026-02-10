@@ -1,0 +1,28 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Stalwart": {
+      "Elite 1": "Operator Will +10.",
+      "Elite 2": "Operator Will +15.",
+      "Elite 3": "Operator Will +15.",
+      "Elite 4": "Operator Will +20."
+    },
+    "Expedited Delivery": {
+      "Elite 1": "After a thrown or returning Thunderlance or Thunderlance EX hits the enemy, Avywenna gains 3 Ultimate Energy.",
+      "Elite 2": "After a thrown or returning Thunderlance or Thunderlance EX hits the enemy, Avywenna gains 4 Ultimate Energy."
+    },
+    "Tactful Approach": {
+      "Elite 2": "Ultimate Thunderlance: Final Shock improved: Also applies 6% Electric Susceptibility for 10s to enemies it hits.",
+      "Elite 3": "Ultimate Thunderlance: Final Shock improved: Also applies 10% Electric Susceptibility for 10s to enemies it hits."
+    },
+    "Residence Advisor": {
+      "Elite 1": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+      "Elite 3": "Assign to Control Nexus to grant all operators' Mood Regen +12%"
+    },
+    "Messenger's Secret": {
+      "Elite 2": "Assign to Reception Room to grant operators a small Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack)",
+      "Elite 4": "Assign to Reception Room to grant operators Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack)"
+    }
+  },
+  "costs": {}
+}

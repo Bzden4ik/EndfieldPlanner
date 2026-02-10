@@ -1,0 +1,12 @@
+{
+  "name": "Miner Cleansuit",
+  "typeAndLevel": "Body | Lv.28",
+  "itemId": "item_equip_t1_parts_tundra01_body_06",
+  "imageSrc": "item_equip_t1_parts_tundra01_body_06.png",
+  "mainStat": "DEF +22",
+  "subStats": [
+    "Will +37",
+    "Agility +25",
+    "HP +9.0%"
+  ]
+}

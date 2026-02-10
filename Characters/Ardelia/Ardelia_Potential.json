@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Dolly Paradise",
+      "description": "Battle skill Dolly Rush improved: Consuming Corrosion now applies Physical Susceptibility and Arts Susceptibility with effects +8%."
+    },
+    "Potential 2": {
+      "title": "Game Rewards",
+      "description": "Talent Friendly Presence improved: When the controlled operator touches the Shadow of Mr. Dolly, Ardelia also treats another allied operator with the lowest percentage HP with half of the treatment effects."
+    },
+    "Potential 3": {
+      "title": "Explosive Eruption",
+      "description": "Ultimate Wooly Party improved: Duration +1s; chance to create Shadow of Mr. Dolly is increased to 1.2 times the original."
+    },
+    "Potential 4": {
+      "title": "Rock Blossom",
+      "description": "Ultimate Wooly Party improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Volcanic Steam",
+      "description": "Combo skill Eruption Column improved: Length of cooldown -2s; DMG multiplier is increased to 1.2 times the original; duration of Corrosion applied +4s."
+    }
+  },
+  "totalCost": [
+    "Ardelia's Token (5)"
+  ]
+}

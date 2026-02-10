@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Intellect Boost [S]",
+    "Arts Boost [S]",
+    "Inspiring: Start of a Saga"
+  ],
+  [
+    "Rank 1",
+    "Intellect +12",
+    "Arts DMG Dealt +3.33%",
+    "When the wielder's HP is above 80.00%, ATK +15%."
+  ],
+  [
+    "Rank 2",
+    "Intellect +21",
+    "Arts DMG Dealt +6%",
+    "When the wielder's HP is above 80.00%, ATK +18%."
+  ],
+  [
+    "Rank 3",
+    "Intellect +31",
+    "Arts DMG Dealt +8.67%",
+    "When the wielder's HP is above 80.00%, ATK +21%."
+  ],
+  [
+    "Rank 4",
+    "Intellect +40",
+    "Arts DMG Dealt +11.33%",
+    "When the wielder's HP is above 80.00%, ATK +24%."
+  ],
+  [
+    "Rank 5",
+    "Intellect +50",
+    "Arts DMG Dealt +14%",
+    "When the wielder's HP is above 80.00%, ATK +27%."
+  ],
+  [
+    "Rank 6",
+    "Intellect +60",
+    "Arts DMG Dealt +16.67%",
+    "When the wielder's HP is above 80.00%, ATK +30%."
+  ],
+  [
+    "Rank 7",
+    "Intellect +69",
+    "Arts DMG Dealt +19.33%",
+    "When the wielder's HP is above 80.00%, ATK +33%."
+  ],
+  [
+    "Rank 8",
+    "Intellect +79",
+    "Arts DMG Dealt +22%",
+    "When the wielder's HP is above 80.00%, ATK +36%."
+  ],
+  [
+    "Rank 9",
+    "Intellect +93",
+    "Arts DMG Dealt +26%",
+    "When the wielder's HP is above 80.00%, ATK +42%."
+  ]
+]

@@ -1,0 +1,98 @@
+{
+  "name": "Bonekrusha",
+  "setEffect": "3-piece set effect: Wearer's ATK +15%. When the wearer casts a combo skill, the wearer gains 1 stack of Bonekrushing Smash that grants the wearer's next battle skill DMG Dealt +30%. Bonekrushing Smash can stack 2 time(s).",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_attri01_body_01",
+        "imageSrc": "item_equip_t4_suit_attri01_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Agility": "104",
+          "Intellect": "69",
+          "Ultimate SP Gain": "14.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_attri01_body_02",
+        "imageSrc": "item_equip_t4_suit_attri01_body_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Agility": "104",
+          "Strength": "69",
+          "Combo Skill DMG": "24.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_attri01_body_03",
+        "imageSrc": "item_equip_t4_suit_attri01_body_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "104",
+          "Strength": "69",
+          "Combo Skill DMG": "24.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_attri01_body_04",
+        "imageSrc": "item_equip_t4_suit_attri01_body_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "104",
+          "Agility": "69",
+          "Ultimate SP Gain": "14.8%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_attri01_edc_03",
+        "imageSrc": "item_equip_t4_suit_attri01_edc_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "38",
+          "Agility": "25",
+          "Normal Skill DMG": "49.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_attri01_edc_04",
+        "imageSrc": "item_equip_t4_suit_attri01_edc_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Agility": "38",
+          "Strength": "25",
+          "DMG to Broken": "49.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_attri01_edc_05",
+        "imageSrc": "item_equip_t4_suit_attri01_edc_05.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Agility": "38",
+          "Strength": "25",
+          "Crit Rate": "12.4%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_attri01_edc_06",
+        "imageSrc": "item_equip_t4_suit_attri01_edc_06.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "38",
+          "Intellect": "25",
+          "Combo Skill DMG": "49.7%"
+        }
+      }
+    ]
+  }
+}

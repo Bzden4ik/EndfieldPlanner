@@ -1,0 +1,14 @@
+{
+  "name": "Xaihi",
+  "class": "Supporter",
+  "weapon": "Arts Unit",
+  "element": "Cryo",
+  "faction": "File:Cabal of Tranquility.png Cabal of Tranquility",
+  "tags": [
+    "HP Treatment",
+    "Cryo Infliction",
+    "Amp"
+  ],
+  "mainAttribute": "Will",
+  "subAttribute": "Intellect"
+}

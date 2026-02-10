@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Crisis Handling",
+      "description": "Combo skill Instant Protocol: Chain improved: Electrification duration +75%."
+    },
+    "Potential 2": {
+      "title": "Negotiation Tactics",
+      "description": "Ultimate Protocol ε: 70.41K improved: Ultimate Energy cost -15%."
+    },
+    "Potential 3": {
+      "title": "Supervisory Duties",
+      "description": "After Perlica applies Electrification to the enemy, she gains ATK +20% for 5s. This effect can reach 2 stacks."
+    },
+    "Potential 4": {
+      "title": "Constant Guidance",
+      "description": "Combo skill Instant Protocol: Chain improved: Duration of the Arts DMG Taken debuff on the enemy applied by the skill's Electrification is increased to 1.33 times the original."
+    },
+    "Potential 5": {
+      "title": "Reentry Control",
+      "description": "Ultimate Protocol ε: 70.41K improved: Critical Rate +30%."
+    }
+  },
+  "totalCost": [
+    "Perlica's Token (5)"
+  ]
+}

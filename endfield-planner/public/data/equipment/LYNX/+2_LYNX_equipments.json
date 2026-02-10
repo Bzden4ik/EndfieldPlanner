@@ -1,0 +1,98 @@
+{
+  "name": "LYNX",
+  "setEffect": "3-piece set effect: Wearer's HP Treatment Efficiency +20%. After the wearer gives HP treatment to an allied target, that target also gains 15% DMG Reduction against all types of DMG for 10s. If the said treatment exceeds the target's Max HP, the target gains 30% DMG Reduction against all types of DMG. The aforementioned effects cannot stack.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_heal01_body_01",
+        "imageSrc": "item_equip_t4_suit_heal01_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Strength": "104",
+          "Will": "69",
+          "Heal Output": "12.4%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_heal01_body_02",
+        "imageSrc": "item_equip_t4_suit_heal01_body_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "104",
+          "Intellect": "69",
+          "Heal Output": "12.4%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_heal01_hand_01",
+        "imageSrc": "item_equip_t4_suit_heal01_hand_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Strength": "78",
+          "Will": "51",
+          "Ultimate SP Gain": "24.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_heal01_hand_02",
+        "imageSrc": "item_equip_t4_suit_heal01_hand_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Will": "78",
+          "Strength": "51",
+          "Heal Output": "20.7%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_heal01_edc_01",
+        "imageSrc": "item_equip_t4_suit_heal01_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "38",
+          "Will": "25"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_heal01_edc_03",
+        "imageSrc": "item_equip_t4_suit_heal01_edc_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "38",
+          "Intellect": "25",
+          "Main Attribute": "24.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_heal01_edc_04",
+        "imageSrc": "item_equip_t4_suit_heal01_edc_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "49",
+          "Heal Output": "24.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_heal01_edc_05",
+        "imageSrc": "item_equip_t4_suit_heal01_edc_05.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "38",
+          "Will": "25",
+          "HP": "49.7%"
+        }
+      }
+    ]
+  }
+}

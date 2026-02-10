@@ -1,0 +1,13 @@
+{
+  "name": "Arclight",
+  "class": "Vanguard",
+  "weapon": "Sword",
+  "element": "Electric",
+  "faction": "File:Hannabit Circuit.png Hannabit Circuit",
+  "tags": [
+    "SP Recovery",
+    "Electric Infliction"
+  ],
+  "mainAttribute": "Agility",
+  "subAttribute": "Intellect"
+}

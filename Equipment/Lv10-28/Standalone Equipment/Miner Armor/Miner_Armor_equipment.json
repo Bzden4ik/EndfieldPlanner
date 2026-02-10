@@ -1,0 +1,12 @@
+{
+  "name": "Miner Armor",
+  "typeAndLevel": "Body | Lv.20",
+  "itemId": "item_equip_t1_parts_tundra01_body_01",
+  "imageSrc": "item_equip_t1_parts_tundra01_body_01.png",
+  "mainStat": "DEF +16",
+  "subStats": [
+    "Strength +27",
+    "Agility +18",
+    "HP +125.4%"
+  ]
+}

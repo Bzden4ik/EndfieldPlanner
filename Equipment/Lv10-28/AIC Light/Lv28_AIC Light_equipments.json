@@ -1,0 +1,54 @@
+{
+  "name": "AIC Light",
+  "setEffect": "3-piece set effect: Wearer's HP +500. After the wearer defeats an enemy, the wearer gains ATK +20 for 5s.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t1_suit_wisdwill01_body_01",
+        "imageSrc": "item_equip_t1_suit_wisdwill01_body_01.png",
+        "level": "Lv28",
+        "stats": {
+          "DEF": "22",
+          "Intellect": "30",
+          "Will": "30",
+          "Normal Skill DMG": "8.1%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t1_suit_wisdwill01_hand_01",
+        "imageSrc": "item_equip_t1_suit_wisdwill01_hand_01.png",
+        "level": "Lv28",
+        "stats": {
+          "DEF": "17",
+          "Intellect": "23",
+          "Agility": "23",
+          "Combo Skill DMG": "13.5%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t1_suit_wisdwill01_edc_01",
+        "imageSrc": "item_equip_t1_suit_wisdwill01_edc_01.png",
+        "level": "Lv28",
+        "stats": {
+          "DEF": "8",
+          "Intellect": "16",
+          "Combo Skill DMG": "16.2%"
+        }
+      },
+      {
+        "itemId": "item_equip_t1_suit_wisdwill01_edc_02",
+        "imageSrc": "item_equip_t1_suit_wisdwill01_edc_02.png",
+        "level": "Lv28",
+        "stats": {
+          "DEF": "8",
+          "Will": "16",
+          "Normal Skill DMG": "16.2%"
+        }
+      }
+    ]
+  }
+}
