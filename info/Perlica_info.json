@@ -1,0 +1,13 @@
+{
+  "name": "Perlica",
+  "class": "Caster",
+  "weapon": "Arts Unit",
+  "element": "Electric",
+  "faction": "Endfield Industries",
+  "tags": [
+    "Electric Infliction",
+    "Electrify"
+  ],
+  "mainAttribute": "Intellect",
+  "subAttribute": "Will"
+}

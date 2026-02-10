@@ -1,0 +1,14 @@
+{
+  "name": "Ardelia",
+  "class": "Supporter",
+  "weapon": "Arts Unit",
+  "element": "Nature",
+  "faction": "Rhodes Island",
+  "tags": [
+    "HP Treatment",
+    "Corrode",
+    "Susceptibility"
+  ],
+  "mainAttribute": "Intellect",
+  "subAttribute": "Will"
+}

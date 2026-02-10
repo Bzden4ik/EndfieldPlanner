@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Agility Boost [L]",
+    "Physical DMG Boost [L]",
+    "Combative: Virtuous Gain"
+  ],
+  [
+    "Rank 1",
+    "Agility +20",
+    "Physical DMG Dealt +5.56%",
+    "ATK +10%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 120% of the wielder's ATK."
+  ],
+  [
+    "Rank 2",
+    "Agility +36",
+    "Physical DMG Dealt +10%",
+    "ATK +12%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 144% of the wielder's ATK."
+  ],
+  [
+    "Rank 3",
+    "Agility +52",
+    "Physical DMG Dealt +14.44%",
+    "ATK +14%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 168% of the wielder's ATK."
+  ],
+  [
+    "Rank 4",
+    "Agility +68",
+    "Physical DMG Dealt +18.89%",
+    "ATK +16%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 192% of the wielder's ATK."
+  ],
+  [
+    "Rank 5",
+    "Agility +84",
+    "Physical DMG Dealt +23.33%",
+    "ATK +18%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 216% of the wielder's ATK."
+  ],
+  [
+    "Rank 6",
+    "Agility +100",
+    "Physical DMG Dealt +27.78%",
+    "ATK +20%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 240% of the wielder's ATK."
+  ],
+  [
+    "Rank 7",
+    "Agility +116",
+    "Physical DMG Dealt +32.22%",
+    "ATK +22%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 264% of the wielder's ATK."
+  ],
+  [
+    "Rank 8",
+    "Agility +132",
+    "Physical DMG Dealt +36.67%",
+    "ATK +24%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 288% of the wielder's ATK."
+  ],
+  [
+    "Rank 9",
+    "Agility +156",
+    "Physical DMG Dealt +43.33%",
+    "ATK +28%. After the wielder applies Physical Statuses, the wielder also deals another hit of Physical DMG equal to 336% of the wielder's ATK."
+  ]
+]

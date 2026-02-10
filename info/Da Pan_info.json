@@ -1,0 +1,14 @@
+{
+  "name": "Da Pan",
+  "class": "Striker",
+  "weapon": "Great Sword",
+  "element": "Physical",
+  "faction": "Hongshan Academy of Sciences (HAS)",
+  "tags": [
+    "Damage Dealer",
+    "Lift",
+    "Crush"
+  ],
+  "mainAttribute": "Strength",
+  "subAttribute": "Will"
+}

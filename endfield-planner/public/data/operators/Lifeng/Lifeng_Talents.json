@@ -1,0 +1,28 @@
+{
+  "upgrades": {
+    "Elite 1": {},
+    "Skirmisher": {
+      "Elite 1": "Operator Agility +10.",
+      "Elite 2": "Operator Agility +15.",
+      "Elite 3": "Operator Agility +15.",
+      "Elite 4": "Operator Agility +20."
+    },
+    "Illumination": {
+      "Elite 1": "Every point of Intellect and Will further grants ATK +0.10%.",
+      "Elite 2": "Every point of Intellect and Will further grants ATK +0.15%."
+    },
+    "Subduer of Evil": {
+      "Elite 2": "Applying Knock Down also deals 50% ATK of Physical DMG.",
+      "Elite 3": "Applying Knock Down also deals 100% ATK of Physical DMG."
+    },
+    "Youthful Ambition": {
+      "Elite 1": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+      "Elite 3": "Assign to Control Nexus to grant all operators' Mood Regen +16%"
+    },
+    "Laddie Reliable": {
+      "Elite 2": "Assign to Reception Room to grant operators a small Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)",
+      "Elite 4": "Assign to Reception Room to grant operators Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)"
+    }
+  },
+  "costs": {}
+}

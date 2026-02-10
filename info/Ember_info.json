@@ -1,0 +1,14 @@
+{
+  "name": "Ember",
+  "class": "Defender",
+  "weapon": "Great Sword",
+  "element": "Heat",
+  "faction": "File:Order of Steel Oath.png Order of Steel Oath",
+  "tags": [
+    "Knock Down",
+    "HP Treatment",
+    "Shield"
+  ],
+  "mainAttribute": "Strength",
+  "subAttribute": "Will"
+}

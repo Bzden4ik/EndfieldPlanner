@@ -1,0 +1,144 @@
+{
+  "name": "MI Security",
+  "setEffect": "3-piece set effect: Wearer's Critical Rate +5%. After the wearer scores a critical hit, the wearer gains ATK +5% for 5s. This effect can reach 5 stacks. At max stacks, grant an additional Critical Rate +5%. This effect cannot stack.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_01",
+        "imageSrc": "item_equip_t4_suit_criti01_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Agility": "104",
+          "Strength": "69",
+          "Arts Intensity": "24.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_02",
+        "imageSrc": "item_equip_t4_suit_criti01_body_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Intellect": "104",
+          "Agility": "69",
+          "Normal ATK DMG": "16.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_03",
+        "imageSrc": "item_equip_t4_suit_criti01_body_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Intellect": "104",
+          "Will": "69",
+          "Crit Rate": "6.2%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_body_04",
+        "imageSrc": "item_equip_t4_suit_criti01_body_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "104",
+          "Agility": "69",
+          "Normal Skill DMG": "24.8%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_criti01_hand_01",
+        "imageSrc": "item_equip_t4_suit_criti01_hand_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Agility": "78",
+          "Strength": "51",
+          "Normal Skill DMG": "41.4%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_hand_02",
+        "imageSrc": "item_equip_t4_suit_criti01_hand_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "78",
+          "Agility": "51",
+          "Normal ATK DMG": "27.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_hand_03",
+        "imageSrc": "item_equip_t4_suit_criti01_hand_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "78",
+          "Will": "51",
+          "Crit Rate": "10.3%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_01",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "38",
+          "Will": "25",
+          "Cryo & Electric DMG": "27.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_02",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Agility": "38",
+          "Strength": "25",
+          "Normal Skill DMG": "49.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_03",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Intellect": "38",
+          "Agility": "25",
+          "Crit Rate": "12.4%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_04",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "38",
+          "Intellect": "25",
+          "Heat & Nature DMG": "27.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_criti01_edc_05",
+        "imageSrc": "item_equip_t4_suit_criti01_edc_05.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "38",
+          "Agility": "25",
+          "Normal Skill DMG": "49.7%"
+        }
+      }
+    ]
+  }
+}

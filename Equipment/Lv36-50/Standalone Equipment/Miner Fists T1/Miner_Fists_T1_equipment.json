@@ -1,0 +1,12 @@
+{
+  "name": "Miner Fists T1",
+  "typeAndLevel": "Hand | Lv.50",
+  "itemId": "item_equip_t3_parts_tundra01_hand_02",
+  "imageSrc": "item_equip_t3_parts_tundra01_hand_02.png",
+  "mainStat": "DEF +30",
+  "subStats": [
+    "Will +49",
+    "Intellect +32",
+    "Ultimate SP Gain +15.5%"
+  ]
+}

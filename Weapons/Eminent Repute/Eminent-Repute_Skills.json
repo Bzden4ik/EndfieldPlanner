@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Main Attribute Boost [L]",
+    "Physical DMG Boost [L]",
+    "Brutality: Disciplinarian"
+  ],
+  [
+    "Rank 1",
+    "Main attribute +17",
+    "Physical DMG Dealt +5.56%",
+    "ATK +10%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[5% + 2.5%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Main attribute +30",
+    "Physical DMG Dealt +10%",
+    "ATK +12%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[6% + 3%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Main attribute +44",
+    "Physical DMG Dealt +14.44%",
+    "ATK +14%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[7% + 3.5%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Main attribute +57",
+    "Physical DMG Dealt +18.89%",
+    "ATK +16%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[8% + 4%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Main attribute +71",
+    "Physical DMG Dealt +23.33%",
+    "ATK +18%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[9% + 4.5%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Main attribute +85",
+    "Physical DMG Dealt +27.78%",
+    "ATK +20%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[10% + 5%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Main attribute +98",
+    "Physical DMG Dealt +32.22%",
+    "ATK +22%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[11% + 5.5%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Main attribute +112",
+    "Physical DMG Dealt +36.67%",
+    "ATK +24%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[12% + 6%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Main attribute +132",
+    "Physical DMG Dealt +43.33%",
+    "ATK +28%. After the wielder consumes Vulnerability stack(s), the wielder gains ATK +[14% + 7%×Stacks Consumed] while other operators in the team gain half of this buff for 20.00s. Effects of the same name cannot stack."
+  ]
+]

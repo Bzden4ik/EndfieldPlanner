@@ -1,0 +1,11 @@
+{
+  "name": "Redeemer Seal T1",
+  "typeAndLevel": "EDC | Lv.70",
+  "itemId": "item_equip_t4_parts_wuling01_edc_04",
+  "imageSrc": "item_equip_t4_parts_wuling01_edc_04.png",
+  "mainStat": "DEF +21",
+  "subStats": [
+    "Will +43",
+    "Crit Rate +10.8%"
+  ]
+}

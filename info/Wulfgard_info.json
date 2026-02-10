@@ -1,0 +1,13 @@
+{
+  "name": "Wulfgard",
+  "class": "Caster",
+  "weapon": "Handcannon",
+  "element": "Heat",
+  "faction": "Endfield Industries",
+  "tags": [
+    "Heat Infliction",
+    "Combust"
+  ],
+  "mainAttribute": "Strength",
+  "subAttribute": "Agility"
+}

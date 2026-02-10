@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Super Salty Comeback",
+      "description": "Battle skill Unconventional Lure improved: SP Recovery grants an additional 10 SP."
+    },
+    "Potential 2": {
+      "title": "Calm and Tranquil",
+      "description": "Strength +15, Intellect +15."
+    },
+    "Potential 3": {
+      "title": "May the Willing Bite",
+      "description": "Combo skill Auger Angling improved: After catching a Rare Fin, the entire team gains ATK +15% for 10s. This effect cannot stack."
+    },
+    "Potential 4": {
+      "title": "Insane Angling Set",
+      "description": "Ultimate One Monster Catch! improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Mega Lunker Rumors",
+      "description": "Ultimate One Monster Catch! improved: Hitting a target below 50% HP increases the DMG Multiplier to 1.5 times the original."
+    }
+  },
+  "totalCost": [
+    "Alesh's Token (5)"
+  ]
+}

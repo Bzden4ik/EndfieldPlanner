@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Strength Boost [L]",
+    "Attack Boost [L]",
+    "Detonate: Bonechilling"
+  ],
+  [
+    "Rank 1",
+    "Strength +20",
+    "Attack +5%",
+    "Skill DMG Dealt +20% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +10% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +20% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 2",
+    "Strength +36",
+    "Attack +9%",
+    "Skill DMG Dealt +24% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +12% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +24% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 3",
+    "Strength +52",
+    "Attack +13%",
+    "Skill DMG Dealt +28% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +14% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +28% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 4",
+    "Strength +68",
+    "Attack +17%",
+    "Skill DMG Dealt +32% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +16% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +32% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 5",
+    "Strength +84",
+    "Attack +21%",
+    "Skill DMG Dealt +36% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +18% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +36% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 6",
+    "Strength +100",
+    "Attack +25%",
+    "Skill DMG Dealt +40% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +20% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +40% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 7",
+    "Strength +116",
+    "Attack +29%",
+    "Skill DMG Dealt +44% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +22% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +44% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 8",
+    "Strength +132",
+    "Attack +33%",
+    "Skill DMG Dealt +48% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +24% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +48% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ],
+  [
+    "Rank 9",
+    "Strength +156",
+    "Attack +39%",
+    "Skill DMG Dealt +56% (for every skill). When the wielder's battle skill applies Cryo Infliction, the wielder gains Cryo DMG Dealt +28% for 15.00s. When the wielder deals combo skill DMG to an enemy with Cryo Infliction, the wielder gains Cryo DMG Dealt +56% for 15.00s. The two effects apply separately and do not stack with themselves."
+  ]
+]

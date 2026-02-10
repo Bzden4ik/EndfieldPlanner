@@ -1,0 +1,11 @@
+{
+  "name": "Miner Compression Core T1",
+  "typeAndLevel": "EDC | Lv.50",
+  "itemId": "item_equip_t3_parts_tundra01_edc_02",
+  "imageSrc": "item_equip_t3_parts_tundra01_edc_02.png",
+  "mainStat": "DEF +15",
+  "subStats": [
+    "Agility +31",
+    "Combo Skill DMG +31.2%"
+  ]
+}

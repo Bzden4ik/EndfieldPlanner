@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Will Boost [S]",
+    "HP Boost [S]",
+    "Crusher: Honed into Legion"
+  ],
+  [
+    "Rank 1",
+    "Will +12",
+    "Max HP +6%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +12% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Will +21",
+    "Max HP +10.8%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +14.4% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Will +31",
+    "Max HP +15.6%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +16.8% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Will +40",
+    "Max HP +20.4%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +19.2% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Will +50",
+    "Max HP +25.2%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +21.6% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Will +60",
+    "Max HP +30%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +24% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Will +69",
+    "Max HP +34.8%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +26.4% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Will +79",
+    "Max HP +39.6%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +28.8% for 10.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Will +93",
+    "Max HP +46.8%",
+    "When the wielder performs a Final Strike on the enemy, the wielder gains ATK +33.6% for 10.00s. Effects of the same name cannot stack."
+  ]
+]

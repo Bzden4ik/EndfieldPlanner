@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Strength Boost [M]",
+    "Ultimate Gain Efficiency Boost [M]",
+    "Brutality: Cemented Fury"
+  ],
+  [
+    "Rank 1",
+    "Strength +16",
+    "Ultimate Gain Efficiency +4.76%",
+    "Critical Rate +3%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +15% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Strength +28",
+    "Ultimate Gain Efficiency +8.57%",
+    "Critical Rate +3.6%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +18% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Strength +41",
+    "Ultimate Gain Efficiency +12.38%",
+    "Critical Rate +4.2%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +21% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Strength +54",
+    "Ultimate Gain Efficiency +16.19%",
+    "Critical Rate +4.8%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +24% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Strength +67",
+    "Ultimate Gain Efficiency +20%",
+    "Critical Rate +5.4%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +27% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Strength +80",
+    "Ultimate Gain Efficiency +23.81%",
+    "Critical Rate +6%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +30% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Strength +92",
+    "Ultimate Gain Efficiency +27.62%",
+    "Critical Rate +6.6%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +33% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Strength +105",
+    "Ultimate Gain Efficiency +31.43%",
+    "Critical Rate +7.2%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +36% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Strength +124",
+    "Ultimate Gain Efficiency +37.14%",
+    "Critical Rate +8.4%. When the wielder applies Vulnerability to an enemy with no Vulnerability stacks, the wielder gains ATK +42% for 15.00s. Effects of the same name cannot stack."
+  ]
+]

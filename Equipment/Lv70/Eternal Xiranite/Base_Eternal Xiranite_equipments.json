@@ -1,0 +1,78 @@
+{
+  "name": "Eternal Xiranite",
+  "setEffect": "3-piece set effect: Wearer's HP +1000. After the wearer applies Amp, Protected, Susceptibility, or Weakened, other teammates gain DMG Dealt +16% for 15s. This effect cannot stack.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_usp02_body_01",
+        "imageSrc": "item_equip_t4_suit_usp02_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Will": "87",
+          "Intellect": "58",
+          "Arts Intensity": "20.7%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_usp02_hand_01",
+        "imageSrc": "item_equip_t4_suit_usp02_hand_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "65",
+          "Strength": "43",
+          "Ultimate SP Gain": "20.5%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_usp02_hand_02",
+        "imageSrc": "item_equip_t4_suit_usp02_hand_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Intellect": "65",
+          "Will": "43",
+          "Ultimate SP Gain": "20.5%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_usp02_edc_01",
+        "imageSrc": "item_equip_t4_suit_usp02_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Intellect": "32",
+          "Strength": "21",
+          "Ultimate SP Gain": "24.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_usp02_edc_02",
+        "imageSrc": "item_equip_t4_suit_usp02_edc_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Intellect": "32",
+          "Will": "21",
+          "Heal Output": "20.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_usp02_edc_03",
+        "imageSrc": "item_equip_t4_suit_usp02_edc_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Will": "32",
+          "Intellect": "21",
+          "Ultimate SP Gain": "24.6%"
+        }
+      }
+    ]
+  }
+}

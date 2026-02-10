@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Strength Boost [M]",
+    "Cryo DMG Boost [M]",
+    "Suppression: Fin Chaser's Intent"
+  ],
+  [
+    "Rank 1",
+    "Strength +16",
+    "Cryo DMG Dealt +4.44%",
+    "ATK +5%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +7% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Strength +28",
+    "Cryo DMG Dealt +8%",
+    "ATK +6%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +8.4% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Strength +41",
+    "Cryo DMG Dealt +11.56%",
+    "ATK +7%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +9.8% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Strength +54",
+    "Cryo DMG Dealt +15.11%",
+    "ATK +8%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +11.2% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Strength +67",
+    "Cryo DMG Dealt +18.67%",
+    "ATK +9%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +12.6% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Strength +80",
+    "Cryo DMG Dealt +22.22%",
+    "ATK +10%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +14% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Strength +92",
+    "Cryo DMG Dealt +25.78%",
+    "ATK +11%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +15.4% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Strength +105",
+    "Cryo DMG Dealt +29.33%",
+    "ATK +12%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +16.8% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Strength +124",
+    "Cryo DMG Dealt +34.67%",
+    "ATK +14%. When the wielder's battle skill applies Solidification, target enemy suffers Cryo DMG Taken +19.6% for 15.00s. Effects of the same name cannot stack."
+  ]
+]

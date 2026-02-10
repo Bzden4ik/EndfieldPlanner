@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Will Boost [L]",
+    "Attack Boost [L]",
+    "Flow: Thermal Release"
+  ],
+  [
+    "Rank 1",
+    "Will +20",
+    "Attack +5%",
+    "ATK +10%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +5% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 2",
+    "Will +36",
+    "Attack +9%",
+    "ATK +12%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +6% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 3",
+    "Will +52",
+    "Attack +13%",
+    "ATK +14%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +7% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 4",
+    "Will +68",
+    "Attack +17%",
+    "ATK +16%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +8% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 5",
+    "Will +84",
+    "Attack +21%",
+    "ATK +18%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +9% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 6",
+    "Will +100",
+    "Attack +25%",
+    "ATK +20%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +10% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 7",
+    "Will +116",
+    "Attack +29%",
+    "ATK +22%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +11% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 8",
+    "Will +132",
+    "Attack +33%",
+    "ATK +24%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +12% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 9",
+    "Will +156",
+    "Attack +39%",
+    "ATK +28%. After the wielder's skill recovers SP or grants a Link state, the entire team gains ATK +14% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ]
+]

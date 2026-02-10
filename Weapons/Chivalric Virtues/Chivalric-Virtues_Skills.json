@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Will Boost [L]",
+    "HP Boost [L]",
+    "Medicant: Blight Fervor"
+  ],
+  [
+    "Rank 1",
+    "Will +20",
+    "Max HP +10%",
+    "Treatment Efficiency +10%. After the wielder's skill provides HP treatment, the entire team gains ATK +9% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 2",
+    "Will +36",
+    "Max HP +18%",
+    "Treatment Efficiency +12%. After the wielder's skill provides HP treatment, the entire team gains ATK +10.8% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 3",
+    "Will +52",
+    "Max HP +26%",
+    "Treatment Efficiency +14%. After the wielder's skill provides HP treatment, the entire team gains ATK +12.6% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 4",
+    "Will +68",
+    "Max HP +34%",
+    "Treatment Efficiency +16%. After the wielder's skill provides HP treatment, the entire team gains ATK +14.4% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 5",
+    "Will +84",
+    "Max HP +42%",
+    "Treatment Efficiency +18%. After the wielder's skill provides HP treatment, the entire team gains ATK +16.2% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 6",
+    "Will +100",
+    "Max HP +50%",
+    "Treatment Efficiency +20%. After the wielder's skill provides HP treatment, the entire team gains ATK +18% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 7",
+    "Will +116",
+    "Max HP +58%",
+    "Treatment Efficiency +22%. After the wielder's skill provides HP treatment, the entire team gains ATK +19.8% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 8",
+    "Will +132",
+    "Max HP +66%",
+    "Treatment Efficiency +24%. After the wielder's skill provides HP treatment, the entire team gains ATK +21.6% for 15.00s. Effects of the same name cannot stack."
+  ],
+  [
+    "Rank 9",
+    "Will +156",
+    "Max HP +78%",
+    "Treatment Efficiency +28%. After the wielder's skill provides HP treatment, the entire team gains ATK +25.2% for 15.00s. Effects of the same name cannot stack."
+  ]
+]

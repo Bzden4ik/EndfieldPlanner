@@ -1,0 +1,11 @@
+{
+  "name": "Miner Turbine T1",
+  "typeAndLevel": "EDC | Lv.50",
+  "itemId": "item_equip_t3_parts_tundra01_edc_01",
+  "imageSrc": "item_equip_t3_parts_tundra01_edc_01.png",
+  "mainStat": "DEF +15",
+  "subStats": [
+    "Strength +31",
+    "All DMG Taken Reduction -13.5%"
+  ]
+}

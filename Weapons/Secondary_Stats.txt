@@ -1,0 +1,14 @@
+ATK Boost
+Arts Boost
+Arts Intensity Boost
+Assault: Armament Prep
+Attack Boost
+Critical Rate Boost
+Cryo DMG Boost
+Electric DMG Boost
+HP Boost
+Heat DMG Boost
+Nature DMG Boost
+Physical DMG Boost
+Treatment Efficiency Boost
+Ultimate Gain Efficiency Boost

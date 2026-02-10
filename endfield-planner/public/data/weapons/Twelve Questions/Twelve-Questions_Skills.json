@@ -1,0 +1,62 @@
+[
+  [
+    "Rank",
+    "Agility Boost [M]",
+    "ATK Boost [M]",
+    "Infliction: Sincere Interrogation"
+  ],
+  [
+    "Rank 1",
+    "Agility +16",
+    "Attack +4%",
+    "Secondary Attribute +5%. After the wielder consumes an Arts Reaction, ATK +7.5% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 2",
+    "Agility +28",
+    "Attack +7.2%",
+    "Secondary Attribute +6%. After the wielder consumes an Arts Reaction, ATK +9% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 3",
+    "Agility +41",
+    "Attack +10.4%",
+    "Secondary Attribute +7%. After the wielder consumes an Arts Reaction, ATK +10.5% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 4",
+    "Agility +54",
+    "Attack +13.6%",
+    "Secondary Attribute +8%. After the wielder consumes an Arts Reaction, ATK +12% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 5",
+    "Agility +67",
+    "Attack +16.8%",
+    "Secondary Attribute +9%. After the wielder consumes an Arts Reaction, ATK +13.5% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 6",
+    "Agility +80",
+    "Attack +20%",
+    "Secondary Attribute +10%. After the wielder consumes an Arts Reaction, ATK +15% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 7",
+    "Agility +92",
+    "Attack +23.2%",
+    "Secondary Attribute +11%. After the wielder consumes an Arts Reaction, ATK +16.5% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 8",
+    "Agility +105",
+    "Attack +26.4%",
+    "Secondary Attribute +12%. After the wielder consumes an Arts Reaction, ATK +18% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ],
+  [
+    "Rank 9",
+    "Agility +124",
+    "Attack +31.2%",
+    "Secondary Attribute +14%. After the wielder consumes an Arts Reaction, ATK +21% for 20.00s. Max stacks for effects of the same name: 2.00. Duration of each stack is counted separately."
+  ]
+]

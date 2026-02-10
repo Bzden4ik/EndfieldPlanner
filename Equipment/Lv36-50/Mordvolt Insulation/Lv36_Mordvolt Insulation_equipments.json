@@ -1,0 +1,64 @@
+{
+  "name": "Mordvolt Insulation",
+  "setEffect": "3-piece set effect: Wearer's Intellect +50. When the wearer's HP is above 80%, Arts DMG +20%.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t2_suit_wisd01_body_01",
+        "imageSrc": "item_equip_t2_suit_wisd01_body_01.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "29",
+          "Intellect": "44",
+          "Strength": "29",
+          "ATK": "16.2%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t2_suit_wisd01_hand_01",
+        "imageSrc": "item_equip_t2_suit_wisd01_hand_01.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "22",
+          "Intellect": "33",
+          "Will": "22",
+          "Arts DMG": "9.2%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t2_suit_wisd01_edc_01",
+        "imageSrc": "item_equip_t2_suit_wisd01_edc_01.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "11",
+          "Intellect": "21",
+          "ATK": "10.5%"
+        }
+      },
+      {
+        "itemId": "item_equip_t2_suit_wisd01_edc_02",
+        "imageSrc": "item_equip_t2_suit_wisd01_edc_02.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "11",
+          "Intellect": "21",
+          "Cryo & Electric DMG": "11.7%"
+        }
+      },
+      {
+        "itemId": "item_equip_t2_suit_wisd01_edc_03",
+        "imageSrc": "item_equip_t2_suit_wisd01_edc_03.png",
+        "level": "Lv36",
+        "stats": {
+          "DEF": "11",
+          "Intellect": "21",
+          "Crit Rate": "5.3%"
+        }
+      }
+    ]
+  }
+}

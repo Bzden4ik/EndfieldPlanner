@@ -1,0 +1,14 @@
+{
+  "name": "Gilberta",
+  "class": "Supporter",
+  "weapon": "Arts Unit",
+  "element": "Nature",
+  "faction": "Rhodes Island",
+  "tags": [
+    "Arts Susc.",
+    "Nature Infliction",
+    "Lift"
+  ],
+  "mainAttribute": "Will",
+  "subAttribute": "Intellect"
+}

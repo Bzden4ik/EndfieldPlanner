@@ -1,0 +1,13 @@
+{
+  "name": "Avywenna",
+  "class": "Striker",
+  "weapon": "Polearm",
+  "element": "Electric",
+  "faction": "File:Talos-II General Chamber of Commerce (TGCC).png Talos-II General Chamber of Commerce (TGCC)",
+  "tags": [
+    "Damage Dealer",
+    "Arts Susc."
+  ],
+  "mainAttribute": "Will",
+  "subAttribute": "Agility"
+}

@@ -1,0 +1,27 @@
+{
+  "upgrades": {
+    "Potential 1": {
+      "title": "Lone Wolf",
+      "description": "Strength +15, Agility +15."
+    },
+    "Potential 2": {
+      "title": "Firearm Mods",
+      "description": "Talent Code of Restraint improved: Returns 10 additional SP."
+    },
+    "Potential 3": {
+      "title": "Hunting Hour",
+      "description": "While Scorching Fangs is active, triggering the battle skill's additional effects immediately resets the Scorching Fangs duration and grants other teammates Scorching Fangs with 50% of the base effects."
+    },
+    "Potential 4": {
+      "title": "Will of the Pack",
+      "description": "Ultimate Wolven Fury improved: Ultimate Energy cost -15%."
+    },
+    "Potential 5": {
+      "title": "Natural Predator",
+      "description": "Casting the ultimate Wolven Fury immediately resets the cooldown of the combo skill Frag Grenade·β."
+    }
+  },
+  "totalCost": [
+    "Wulfgard's Token (5)"
+  ]
+}

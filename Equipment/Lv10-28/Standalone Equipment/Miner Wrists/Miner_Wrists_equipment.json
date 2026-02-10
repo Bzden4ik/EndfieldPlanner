@@ -1,0 +1,12 @@
+{
+  "name": "Miner Wrists",
+  "typeAndLevel": "Hand | Lv.28",
+  "itemId": "item_equip_t1_parts_tundra01_hand_02",
+  "imageSrc": "item_equip_t1_parts_tundra01_hand_02.png",
+  "mainStat": "DEF +17",
+  "subStats": [
+    "Agility +28",
+    "Strength +18",
+    "HP +15.0%"
+  ]
+}

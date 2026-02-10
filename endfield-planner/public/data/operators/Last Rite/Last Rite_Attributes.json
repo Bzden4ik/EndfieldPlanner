@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "HP": {
+      "Base": "500",
+      "Elite 1": "1566",
+      "Elite 2": "2689",
+      "Elite 3": "3811",
+      "Elite 4": "4934",
+      "Elite 4 Max": "5495"
+    },
+    "ATK": {
+      "Base": "30",
+      "Elite 1": "95",
+      "Elite 2": "162",
+      "Elite 3": "230",
+      "Elite 4": "298",
+      "Elite 4 Max": "332"
+    },
+    "STR": {
+      "Base": "21",
+      "Elite 1": "50",
+      "Elite 2": "80",
+      "Elite 3": "110",
+      "Elite 4": "140",
+      "Elite 4 Max": "155"
+    },
+    "AGL": {
+      "Base": "8",
+      "Elite 1": "29",
+      "Elite 2": "50",
+      "Elite 3": "72",
+      "Elite 4": "93",
+      "Elite 4 Max": "104"
+    },
+    "INT": {
+      "Base": "9",
+      "Elite 1": "27",
+      "Elite 2": "46",
+      "Elite 3": "65",
+      "Elite 4": "84",
+      "Elite 4 Max": "93"
+    },
+    "WIL": {
+      "Base": "15",
+      "Elite 1": "35",
+      "Elite 2": "56",
+      "Elite 3": "77",
+      "Elite 4": "98",
+      "Elite 4 Max": "109"
+    }
+  },
+  "class": "Great Sword"
+}

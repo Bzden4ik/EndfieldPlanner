@@ -1,0 +1,13 @@
+{
+  "name": "Laevatain",
+  "class": "Striker",
+  "weapon": "Sword",
+  "element": "Heat",
+  "faction": "Rhodes Island",
+  "tags": [
+    "Damage Dealer",
+    "Combust"
+  ],
+  "mainAttribute": "Intellect",
+  "subAttribute": "Strength"
+}

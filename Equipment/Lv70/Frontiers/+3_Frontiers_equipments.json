@@ -1,0 +1,100 @@
+{
+  "name": "Frontiers",
+  "setEffect": "3-piece set effect: Wearer's Combo Skill Cooldown Reduction +15%. After the wearer's skill recovers SP, the team gains DMG +16% for 15s. This effect cannot stack.",
+  "equipment": {
+    "Body": [
+      {
+        "itemId": "item_equip_t4_suit_atb01_body_01",
+        "imageSrc": "item_equip_t4_suit_atb01_body_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Strength": "113",
+          "Intellect": "75",
+          "Ultimate DMG": "33.6%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atb01_body_02",
+        "imageSrc": "item_equip_t4_suit_atb01_body_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Strength": "113",
+          "Agility": "75",
+          "Normal Skill DMG": "26.9%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atb01_body_03",
+        "imageSrc": "item_equip_t4_suit_atb01_body_03.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Agility": "113",
+          "Intellect": "75",
+          "Normal Skill DMG": "26.9%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atb01_body_04",
+        "imageSrc": "item_equip_t4_suit_atb01_body_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "56",
+          "Agility": "113",
+          "Intellect": "75",
+          "Sub-Attr": "13.5%"
+        }
+      }
+    ],
+    "Hand": [
+      {
+        "itemId": "item_equip_t4_suit_atb01_hand_01",
+        "imageSrc": "item_equip_t4_suit_atb01_hand_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "42",
+          "Agility": "84",
+          "Intellect": "55",
+          "Normal Skill DMG": "44.9%"
+        }
+      }
+    ],
+    "EDC": [
+      {
+        "itemId": "item_equip_t4_suit_atb01_edc_01",
+        "imageSrc": "item_equip_t4_suit_atb01_edc_01.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "41",
+          "Agility": "27",
+          "Combo Skill DMG": "53.8%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atb01_edc_02",
+        "imageSrc": "item_equip_t4_suit_atb01_edc_02.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Strength": "41",
+          "Intellect": "27",
+          "Cryo & Electric DMG": "29.9%"
+        }
+      },
+      {
+        "itemId": "item_equip_t4_suit_atb01_edc_04",
+        "imageSrc": "item_equip_t4_suit_atb01_edc_04.png",
+        "level": "Lv70",
+        "stats": {
+          "DEF": "21",
+          "Agility": "41",
+          "Intellect": "27",
+          "Sub-Attr": "26.9%"
+        }
+      }
+    ]
+  }
+}

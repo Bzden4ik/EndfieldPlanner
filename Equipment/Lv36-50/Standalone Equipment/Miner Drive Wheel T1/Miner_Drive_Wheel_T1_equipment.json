@@ -1,0 +1,11 @@
+{
+  "name": "Miner Drive Wheel T1",
+  "typeAndLevel": "EDC | Lv.50",
+  "itemId": "item_equip_t3_parts_tundra01_edc_03",
+  "imageSrc": "item_equip_t3_parts_tundra01_edc_03.png",
+  "mainStat": "DEF +15",
+  "subStats": [
+    "Intellect +31",
+    "Ultimate SP Gain +18.6%"
+  ]
+}
